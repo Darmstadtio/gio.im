@@ -27,9 +27,7 @@ params:
       - source: /space_loop_sfondo.mp4
         type: video/mp4
   favicon: logo.ico
-  description: un nodo nella rete
-
-
+  description: un nodo nella rete, ed io, Gio, l'internauta che lo tesse
 
 imaging:
   exif:
