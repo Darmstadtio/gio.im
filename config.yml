@@ -21,11 +21,16 @@ params:
       text: cose che faccio
       weight: 40
   dateform: 2006 Jan, 02
-  dateformfull: 2006 Jan 2 2006 15:04:05 EST
+  dateformfull: 2006 Jan 2  15:04:05 EST
   videoBackground:
     sources:
       - source: /space_loop_sfondo.mp4
         type: video/mp4
+  favicon: logo.ico
+  homepage: gio.im
+  description: gio.im; gioblog; giosite;
+
+
 
 imaging:
   exif:
