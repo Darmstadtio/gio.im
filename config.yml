@@ -27,7 +27,7 @@ params:
       - source: /space_loop_sfondo.mp4
         type: video/mp4
   favicon: logo.ico
-  description: gio.im; gioblog; giosite;
+  description: un nodo nella rete
 
 
 
