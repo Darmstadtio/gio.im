@@ -119,7 +119,7 @@ nav {
 
 .big-link {
   font-family: "Didact Gothic", "sans serif";
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 300;
   margin-bottom: 2rem;
   line-height: 1.5em; }
