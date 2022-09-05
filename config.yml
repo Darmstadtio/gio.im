@@ -1,5 +1,5 @@
 enableRobotsTXT: true
-baseURL: ""
+baseURL: "https://storied-strudel-f6eb9b.netlify.app/"
 languageCode: en-us
 title: Gio.im
 theme:
