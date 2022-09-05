@@ -27,7 +27,6 @@ params:
       - source: /space_loop_sfondo.mp4
         type: video/mp4
   favicon: logo.ico
-  homepage: gio.im
   description: gio.im; gioblog; giosite;
 
 
