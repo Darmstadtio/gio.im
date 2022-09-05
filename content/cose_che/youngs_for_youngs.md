@@ -33,4 +33,4 @@ Ah giò, ma Noi chi? Noi! **@Riccardo_Bier**, **@Davide_Pasquali**, **@Edoardo_B
 
 Ed ora... Contattateci: y4y.project@gmail.com o visitate il nostro sito: [www.y4y.it](https://www.y4y.it/home)
 
-![Centro Zero](/faccio/images/y4y.png)
+![Centro Zero](/cose_che/images/y4y.png)

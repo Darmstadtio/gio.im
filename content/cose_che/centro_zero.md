@@ -23,4 +23,4 @@ Ed ora venite a trovarci, a fare due chiacchiere, a vedere un film, suonare un p
 
 Vi lascio qualche link utile: [Pagina Fb Centro Zero](https://www.facebook.com/CentroZero/). Dite che vi mando io! ;)
 
-![Centro Zero](/faccio/images/cz_logo.png)
+![Centro Zero](/cose_che/images/cz_logo.png)
