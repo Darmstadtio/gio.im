@@ -27,10 +27,8 @@ params:
       - source: /space_loop_sfondo.mp4
         type: video/mp4
 
-
 imaging:
   exif:
     includeFields: .*
-
 
 timeout: 90000
