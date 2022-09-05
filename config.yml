@@ -1,0 +1,36 @@
+enableRobotsTXT: true
+baseURL: ""
+languageCode: en-us
+title: Gio.im
+theme:
+  - hugo-shortcode-gallery-master
+  - hugo-theme-sam-master
+
+params:
+  mainMenu:
+    - link: /gio
+      text: chi è gio?
+      weight: 10
+    - link: /blog
+      text: cose che scrivo
+      weight: 20
+    - link: /fotografia
+      text: cose che fotografo
+      weight: 30
+    - link: /cose_che
+      text: cose che faccio
+      weight: 40
+  dateform: 2006 Jan, 02
+  dateformfull: 2006 Jan 2 2006 15:04:05 EST
+  videoBackground:
+    sources:
+      - source: /space_loop_sfondo.mp4
+        type: video/mp4
+
+
+imaging:
+  exif:
+    includeFields: .*
+
+
+timeout: 90000
