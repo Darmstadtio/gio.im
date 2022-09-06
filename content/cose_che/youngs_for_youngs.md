@@ -5,6 +5,8 @@ type: "posts"
 url: "/y4y"
 date: 2021-11-01
 draft: false
+tags:
+  - progetti
 ---
 
 

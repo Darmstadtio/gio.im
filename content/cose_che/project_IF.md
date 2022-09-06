@@ -5,6 +5,8 @@ type: "posts"
 url: "p_if"
 date: 2020-10-10
 draft: false
+tags:
+  - progetti
 ---
 
 
