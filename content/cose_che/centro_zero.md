@@ -7,6 +7,8 @@ date: 2018-09-30
 draft: false
 tags:
   - progetti
+images:
+  - /cose_che/images/cz_logo.webp
 ---
 
 
