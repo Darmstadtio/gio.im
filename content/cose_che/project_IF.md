@@ -7,8 +7,6 @@ date: 2020-10-10
 draft: false
 tags:
   - progetti
-images:
-  - /cose_che/images/project_if.webp
 ---
 
 
@@ -32,4 +30,4 @@ Bhe e poi perchè mi piace anche ecco.
 
 Ed ora... [Contattatemi]({{< ref "/gio/contatti" >}} "Contattatemi") :D (<- clicca pure qui!)
 
-![Project IF](/cose_che/images/project_if.webp)
+![Project IF](/cose_che/project_if.webp)

@@ -7,8 +7,6 @@ date: 2018-09-30
 draft: false
 tags:
   - progetti
-images:
-  - /cose_che/images/cz_logo.webp
 ---
 
 
@@ -27,4 +25,4 @@ Ed ora venite a trovarci, a fare due chiacchiere, a vedere un film, suonare un p
 
 Vi lascio qualche link utile: [Pagina Fb Centro Zero](https://www.facebook.com/CentroZero/). Dite che vi mando io! ;)
 
-![Centro Zero](/cose_che/images/cz_logo.webp)
+![Centro Zero](/cose_che/cz_logo.webp)

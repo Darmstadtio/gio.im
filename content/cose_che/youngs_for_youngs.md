@@ -7,8 +7,6 @@ date: 2021-11-01
 draft: false
 tags:
   - progetti
-images:
-  - /cose_che/images/y4y.webp
 ---
 
 
@@ -37,4 +35,4 @@ Ah giò, ma Noi chi? Noi! **@Riccardo_Bier**, **@Davide_Pasquali**, **@Edoardo_B
 
 Ed ora... Contattateci: y4y.project@gmail.com o visitate il nostro sito: [www.y4y.it](https://www.y4y.it/home)
 
-![Young for Youngs](/cose_che/images/y4y.webp)
+![Young for Youngs](/cose_che/y4y.webp)

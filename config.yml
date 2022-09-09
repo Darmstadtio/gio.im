@@ -24,9 +24,9 @@ params:
   dateformfull: 2006 Jan 2  15:04:05 EST
   videoBackground:
     sources:
-      - source: /space_loop_sfondo.mp4
+      - source: /struttura/space_loop_sfondo.mp4
         type: video/mp4
-  favicon: logo.ico
+  favicon: /struttura/logo.ico
   description: un nodo nella rete, ed io, Gio, l'internauta che lo tesse
 
 imaging:
