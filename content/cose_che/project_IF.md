@@ -7,8 +7,8 @@ date: 2020-10-10
 draft: false
 tags:
   - progetti
-  images:
-    - /cose_che/images/project_if.webp
+images:
+  - /cose_che/images/project_if.webp
 ---
 
 
