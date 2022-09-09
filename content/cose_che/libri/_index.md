@@ -14,6 +14,6 @@ Spero di non risultare anacronistico ma per me un libro è solo cartaceo; sì il
 Spero di non fermarmi mai con questa pagina :)
 
 ### Cosa sto leggendo Ora:
-**Non credere a tutto quello che ti frulla in testa** - di Alexandra Reinwarth
+**C'era una volta un paradosso, storie di illusioni e verità rovesciate** - di Piergiorgio Odifreddi
 
 ### Cosa ho letto finora:

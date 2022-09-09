@@ -6,6 +6,7 @@ draft: false
 ---
 
 ### Saggistica
+- **Non credere a tutto quello che ti frulla in testa** - di Alexandra Reinwarth
 - **Diventa un Tiranno** - di Antonio Losito
 - **Non pensare all'Elefante! Come riprendersi il discorso politico** - di George Lakeoff
 - **La Patria, Bene o Male** - di C. Fruttero e M. Gramellini

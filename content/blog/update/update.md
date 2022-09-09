@@ -10,6 +10,17 @@ tags:
   - cose
 ---
 
+#### #18 | 06/09/2022
+
+Il nuovo sito è online (questo)!
+
+Cosa è cambiato? Praticamente tutto. Era da un po' di tempo che stavo pensando di rinnovare completamente il mio sito web; in particolare cercavo di trovare una soluzione adatta alle mie esigenze e capacità, che mi permettesse di emanciparmi da Google Sites, sia come "framework", che come spazio di hosting. Hugo è stata la mia risposta.
+Vorrei raccontare tutte le vicende e le vicissitudini dietro alla riscrittura di _gio.im_, ma non voglio farlo in questa sede: un piccolo articolo nel blog penso possa essere luogo ideale :)
+
+Nel frattempo: benvenuti/e nel nuovo **Gio.im**!
+
+_
+
 #### #17 | 27/08/2022
 
 Era da un po che non mettevo mano alla mia pagina di fotografia. Oggi l'ho fatto.
