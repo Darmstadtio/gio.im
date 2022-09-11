@@ -14,6 +14,6 @@ Spero di non risultare anacronistico ma per me un libro è solo cartaceo; sì il
 Spero di non fermarmi mai con questa pagina :)
 
 ### Cosa sto leggendo Ora:
-**C'era una volta un paradosso, storie di illusioni e verità rovesciate** - di Piergiorgio Odifreddi
+> **C'era una volta un paradosso, storie di illusioni e verità rovesciate** - di Piergiorgio Odifreddi
 
 ### Cosa ho letto finora:
