@@ -14,4 +14,17 @@ Ma non è dell'hardware che mi interessa scrivere qua. Adoro fotografare perché
 
 Amo, e non è un iperbole, la fotografia metafisica: andare oltre l'immagine e il colore ma con essi spingersi in qualcosa che supera il soggetto entrando, sfondando la quarta dimensione del tempo per collocarsi nella regione di perfetto equilibrio che solo la ragione sà contemplare (il mio retaggio filosofico).
 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="400x400 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" loadJQuery=true showExif=true filterOptions="[{label: 'All', tags: '.*'}, {label: 'Black/White', tags: 'bn'}, {label: 'Color', tags: 'c'}, {label: 'Il Direttivo', tags: 'Direttivo'}, {label: 'Maniero di Padernello', tags: 'Padernello'}, {label: 'Busker Festival', tags: 'Busker'}]" storeSelectedFilterInUrl=true >}}
+
+{{<
+  gallery
+  match="images/*"
+  sortOrder="desc"
+  rowHeight="150"
+  margins="5"
+  thumbnailResizeOptions="400x400 q90 Lanczos"
+  showExif=true
+  previewType="blur"
+  embedPreview="true"
+  loadJQuery=true
+  filterOptions="[{label: 'All', tags: '.*'}, {label: 'Black/White', tags: 'bn'}, {label: 'Color', tags: 'c'}, {label: 'Il Direttivo', tags: 'Direttivo'}, {label: 'Maniero di Padernello', tags: 'Padernello'}, {label: 'Busker Festival', tags: 'Busker'}]" storeSelectedFilterInUrl=true
+>}}
