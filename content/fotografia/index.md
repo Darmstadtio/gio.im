@@ -22,7 +22,7 @@ Amo, e non è un iperbole, la fotografia metafisica: andare oltre l'immagine e i
   rowHeight="150"
   margins="5"
   thumbnailResizeOptions="400x400 q90 Lanczos"
-  showExif=true
+  showExif="true"
   previewType="blur"
   embedPreview="true"
   loadJQuery=true
