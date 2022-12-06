@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>storie on Gio.im</title>
+    <link>http://localhost:1313/tags/storie/</link>
+    <description>Recent content in storie on Gio.im</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/storie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quella volta che non la diedi vinta a Windows10</title>
+      <link>http://localhost:1313/blog/05.quella-volta-che-non-la-diedi-vinta-a-windows10/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/05.quella-volta-che-non-la-diedi-vinta-a-windows10/</guid>
+      <description>Una breve avventura digitale&amp;nbsp;¶ Questo è il racconto, la storia, il decantare le geste di un umile fruitore di un sistema operativo closed source che, di fronte ad un assolutamente non importante e completamente trascurabile avvenimento quale è il premere per errore il tasto &amp;ldquo;invio&amp;rdquo; dopo aver effettuato una ricerca tra le cartelle tramite lo &amp;ldquo;start&amp;rdquo; del suddetto sistema operativo closed source (da qua in avanti w10, per premura di caratteri), si ritrova avviato, aperto, in esecuzione Microsoft Edge avente in grembo una ricerca su Bing: allineamenti astrali che costringono l&amp;rsquo;uomo a riesumare le proprie scelte e a doverne seppellire di nuove.</description>
+    </item>
+    
+    <item>
+      <title>Il (mio) paradosso del nonno</title>
+      <link>http://localhost:1313/blog/04.il-mio-paradosso-del-nonno/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/04.il-mio-paradosso-del-nonno/</guid>
+      <description>Un pezzo di racconto breve&amp;nbsp;¶ “Il momento era solenne. Decenni di derisione e scherno da parte della comunità scientifica che oramai lo additava come un folle millantatore di impossibili imprese non erano altro che ricordi spazzatura nella mente del dottor B. Quella che gli si parava davanti era la sua più grande invenzione, magistrale cocktail di ingegneria, fisica e matematica, la macchina del tempo apriva al luminare le strade, le porte e l’oblò ad un futuro ( o forse molti ) che lo avrebbe visto inciso nella memoria del genere umano.</description>
+    </item>
+    
+  </channel>
+</rss>
