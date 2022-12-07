@@ -24,7 +24,7 @@ Ma non è dell'hardware che mi interessa scrivere qua. Adoro fotografare perché
   previewType="blur"
   embedPreview="true"
   loadJQuery=true
-  filterOptions="[{label: 'All', tags: '.*'}, {label: 'Black/White', tags: 'bn'}, {label: 'Color', tags: 'c'}, {label: 'Il Direttivo', tags: 'Direttivo'}, {label: 'Maniero di Padernello', tags: 'Padernello'}, {label: 'Busker Festival', tags: 'Busker'}]" storeSelectedFilterInUrl=true
+    filterOptions="[{label: 'All', tags: '.*'}, {label: 'Black/White', tags: 'bn'}, {label: 'Color', tags: 'c'}, {label: 'Progetti', tags: 'pr'}]" storeSelectedFilterInUrl=true
 >}}
 
 Amo, e non è un iperbole, la fotografia metafisica: andare oltre l'immagine e il colore ma con essi spingersi in qualcosa che supera il soggetto entrando, sfondando la quarta dimensione del tempo per collocarsi nella regione di perfetto equilibrio che solo la ragione sa contemplare (_il mio retaggio filosofico_).
