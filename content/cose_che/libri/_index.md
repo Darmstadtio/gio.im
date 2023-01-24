@@ -14,6 +14,6 @@ Spero di non risultare anacronistico ma per me un libro è solo cartaceo; sì il
 Spero di non fermarmi mai con questa pagina :)
 
 ### Cosa sto leggendo Ora:
-> **Molto dopo mezzanotte** - di Ray Bradbury
+> **Le intermittenze della Morte** - di Josè Saramago
 
 ### Cosa ho letto finora:
