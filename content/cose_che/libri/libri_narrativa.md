@@ -6,6 +6,7 @@ draft: false
 ---
 
 ### Narrativa
+- **Le intermittenze della Morte** - di Josè Saramago
 - **Molto dopo mezzanotte** - di Ray Bradbury
 - **Flatlandia** - di Edwin Abbott Abbott
 - **Kobane Calling** - di Zerocalcare

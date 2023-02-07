@@ -6,6 +6,7 @@ draft: false
 ---
 
 ### Saggistica
+- **L'Arte della Guerra** - di Sun Tzu
 - **C'era una volta un paradosso, storie di illusioni e verità rovesciate** - di Piergiorgio Odifreddi
 - **Non credere a tutto quello che ti frulla in testa** - di Alexandra Reinwarth
 - **Diventa un Tiranno** - di Antonio Losito

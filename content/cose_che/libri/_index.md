@@ -16,6 +16,6 @@ Spero di non risultare anacronistico ma per me un libro è solo cartaceo; sì il
 Spero di non fermarmi mai con questa pagina :)
 
 ### Cosa sto leggendo Ora:
-> **Le intermittenze della Morte** - di Josè Saramago
+> **Il Fu Mattia Pascal** - di Luigi Pirandello
 
 ### Cosa ho letto finora:
