@@ -16,6 +16,6 @@ Spero di non risultare anacronistico ma per me un libro è solo cartaceo; sì il
 Spero di non fermarmi mai con questa pagina :)
 
 ### Cosa sto leggendo Ora:
-> **Il Fu Mattia Pascal** - di Luigi Pirandello
+> **Pappagalli Verdi: cronache di un chirurgo di guerra** - di Gino Strada
 
 ### Cosa ho letto finora:
