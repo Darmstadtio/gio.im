@@ -6,6 +6,7 @@ draft: false
 ---
 
 ### Saggistica
+- **Pappagalli Verdi: cronache di un chirurgo di guerra** - di Gino Strada
 - **L'Arte della Guerra** - di Sun Tzu
 - **C'era una volta un paradosso, storie di illusioni e verità rovesciate** - di Piergiorgio Odifreddi
 - **Non credere a tutto quello che ti frulla in testa** - di Alexandra Reinwarth

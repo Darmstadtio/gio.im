@@ -6,6 +6,8 @@ draft: false
 ---
 
 ### Narrativa
+- **Oceano Mare** - di Alessandro Baricco
+- **Il Paradiso degli Orchi** - di Daniel Pennac
 - **Il Fu Mattia Pascal** - di Luigi Pirandello
 - **Le intermittenze della Morte** - di Josè Saramago
 - **Molto dopo mezzanotte** - di Ray Bradbury

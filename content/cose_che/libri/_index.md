@@ -16,6 +16,6 @@ Spero di non risultare anacronistico ma per me un libro è solo cartaceo; sì il
 Spero di non fermarmi mai con questa pagina :)
 
 ### Cosa sto leggendo Ora:
-> **Pappagalli Verdi: cronache di un chirurgo di guerra** - di Gino Strada
+> **Le passeggiate del sognatore solitario** - di Jean-Jacques Rousseau
 
 ### Cosa ho letto finora:
