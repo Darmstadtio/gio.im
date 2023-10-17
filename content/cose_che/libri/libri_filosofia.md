@@ -6,6 +6,7 @@ draft: false
 ---
 
 ### Filosofia
+- **Le passeggiate del sognatore solitario** - di Jean-Jacques Rousseau
 - **La Banalità del Male** - di Hannah Arendt
 - **I Viaggi nel Tempo** - di Giuliano Torrengo
 - **Filosofia del Tempo** - di Francesco Orilia
