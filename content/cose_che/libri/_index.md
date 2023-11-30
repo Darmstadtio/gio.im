@@ -16,6 +16,6 @@ Spero di non risultare anacronistico ma per me un libro è solo cartaceo; sì il
 Spero di non fermarmi mai con questa pagina :)
 
 ### Cosa sto leggendo Ora:
-> **Finanzcapitalismo - la civiltà del denaro in crisi** - di Luciano Gallino
+> **Uno, Nessuno e Centomila** - di Luigi Pirandello
 
 ### Cosa ho letto finora:
