@@ -6,6 +6,9 @@ draft: false
 ---
 
 ### Narrativa
+- **La Grande Fuga dell'Ottobre Rosso** - di Tom Clancy
+- **La Prova del Fuoco** - di Ben Bova
+- **Uno, Nessuno e Centomila** - di Luigi Pirandello
 - **Oceano Mare** - di Alessandro Baricco
 - **Il Paradiso degli Orchi** - di Daniel Pennac
 - **Il Fu Mattia Pascal** - di Luigi Pirandello

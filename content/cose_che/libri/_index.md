@@ -16,6 +16,6 @@ Spero di non risultare anacronistico ma per me un libro è solo cartaceo; sì il
 Spero di non fermarmi mai con questa pagina :)
 
 ### Cosa sto leggendo Ora:
-> **Uno, Nessuno e Centomila** - di Luigi Pirandello
+> **L'Uomo di Marte - The Martian** - di Andy Weir
 
 ### Cosa ho letto finora:
