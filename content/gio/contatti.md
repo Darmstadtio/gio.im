@@ -8,7 +8,7 @@ draft: false
 
 ### Contatti = Social, no?
 
-Eccone una bella lista! Mi vuoi Contattare puoi trovarmi qui: su Facebook su Instagram su Mastodon su Telegram  e su Matrix... oppure inviarmi un email (quanto professionale)
+Eccone una bella lista! Mi vuoi Contattare puoi trovarmi qui: su Telegram, su Mastodon su Instagram e su Matrix... oppure inviarmi un email (quanto professionale).
 
 Se invece ti va di venire a trovarmi direttamente a casa bhe, ne sarei incredibilmente onorato, nonchè soprendentemente spaventato!
 
