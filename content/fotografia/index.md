@@ -10,19 +10,7 @@ draft: false
 
 _inserire commento sagace sulla fotografia qui_
 
-{{<
-  gallery
-  match="images/*"
-  sortOrder="desc"
-  rowHeight="150"
-  margins="5"
-  thumbnailResizeOptions="400x400 q90 Lanczos"
-  showExif="true"
-  previewType="blur"
-  embedPreview="true"
-  loadJQuery=true
-    filterOptions="[{label: 'All', tags: '.*'}, {label: 'Black/White', tags: 'bn'}, {label: 'Color', tags: 'c'}, {label: 'Progetti', tags: 'pr'}]" storeSelectedFilterInUrl=true
->}}
+
 
 
 ##### Qualcosa a riguardo?
