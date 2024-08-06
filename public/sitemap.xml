@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/fotografia/</loc>
+    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/12.archid-de-pit-lo-gnomo/</loc>
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,9 +15,6 @@
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2023-11-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -40,9 +43,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/06.quella-settimana-a-parigi/</loc>
     <lastmod>2022-09-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fotografia/</loc>
-    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/05.quella-volta-che-non-la-diedi-vinta-a-windows10/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
