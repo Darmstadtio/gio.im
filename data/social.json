@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/darmstadtio",
+      "image": "images/social/telegram.svg"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/darmstadtio",
+      "image": "images/social/github.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/marchetti-giorgio",
+      "image": "images/social/linkedin.svg"
+    }
+  ]
+}

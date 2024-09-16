@@ -1,7 +1,0 @@
-[submodule "themes/hugo-shortcode-gallery-master"]
-	path = themes/hugo-shortcode-gallery-master
-	url = "https://github.com/mfg92/hugo-shortcode-gallery.git"
-
-[submodule "theme/hugo-shortcode-gallery-master"]
-	path = themes/hugo-theme-sam-master
-	url = "https://github.com/victoriadrake/hugo-theme-sam.git"

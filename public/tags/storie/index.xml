@@ -1,26 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Storie on Gio.im</title>
-    <link>http://localhost:59356/tags/storie/</link>
-    <description>Recent content in Storie on Gio.im</description>
+    <title>Storie on Un Nodo nella Rete</title>
+    <link>//localhost:1313/tags/storie/</link>
+    <description>Recent content in Storie on Un Nodo nella Rete</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:59356/tags/storie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/storie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archid de Pit, lo gnomo</title>
+      <link>//localhost:1313/blog/12.archid-de-pit-lo-gnomo/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/12.archid-de-pit-lo-gnomo/</guid>
+      <description>Storia di un Artefice Quello che mi appresto a scrivere non vuole essere propriamente un testamento, ma viste le condizioni in cui mi trovo, ho timore possa diventarlo. Quando mi sono imbarcato su questo mercantile per attraversare il Mare di Yover mai avrei pensato che questo sarebbe potuto diventare la mia tomba. Aimè la tempesta ha colto la nave impreparata e in questo momento che scrivo posso sentire le grida provenire da sopracoperta, il trambusto, il correre a destra a manca del vento che con violenza sferza la chiglia.</description>
+    </item>
+    <item>
+      <title>Krikit Von Kli, l&#39;halfling</title>
+      <link>//localhost:1313/blog/08.krikit-von-kli-lhalfling/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/08.krikit-von-kli-lhalfling/</guid>
+      <description>Storia di un Ranger Un giovane halfling venne ritrovato tra le ceneri del villaggio. Cenere e polvere, altro non era rimasto in quella landa dopo il passaggio dei Malevoli. Cenere e polvere le case, cenere e polvere le bestie, cenere e polvere i corpi e le braccia dei suoi genitori, resi ormai informe poltiglia grondante sangue e membra, ma che ancora cingevano la creatura. Funsero da scudo, si frapposero tra lui e la morte, offrirono due anziane vite a pegno di una giovane scintilla.</description>
+    </item>
     <item>
       <title>Quella volta che non la diedi vinta a Windows10</title>
-      <link>http://localhost:59356/blog/05.quella-volta-che-non-la-diedi-vinta-a-windows10/</link>
+      <link>//localhost:1313/blog/05.quella-volta-che-non-la-diedi-vinta-a-windows10/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59356/blog/05.quella-volta-che-non-la-diedi-vinta-a-windows10/</guid>
-      <description>Una breve avventura digitale&amp;nbsp;¶ Questo è il racconto, la storia, il decantare le geste di un umile fruitore di un sistema operativo closed source che, di fronte ad un assolutamente non importante e completamente trascurabile avvenimento quale è il premere per errore il tasto &amp;ldquo;invio&amp;rdquo; dopo aver effettuato una ricerca tra le cartelle tramite lo &amp;ldquo;start&amp;rdquo; del suddetto sistema operativo closed source (da qua in avanti w10, per premura di caratteri), si ritrova avviato, aperto, in esecuzione Microsoft Edge avente in grembo una ricerca su Bing: allineamenti astrali che costringono l&amp;rsquo;uomo a riesumare le proprie scelte e a doverne seppellire di nuove.</description>
+      <guid>//localhost:1313/blog/05.quella-volta-che-non-la-diedi-vinta-a-windows10/</guid>
+      <description>Una breve avventura digitale Questo è il racconto, la storia, il decantare le geste di un umile fruitore di un sistema operativo closed source che, di fronte ad un assolutamente non importante e completamente trascurabile avvenimento quale è il premere per errore il tasto &amp;ldquo;invio&amp;rdquo; dopo aver effettuato una ricerca tra le cartelle tramite lo &amp;ldquo;start&amp;rdquo; del suddetto sistema operativo closed source (da qua in avanti w10, per premura di caratteri), si ritrova avviato, aperto, in esecuzione Microsoft Edge avente in grembo una ricerca su Bing: allineamenti astrali che costringono l&amp;rsquo;uomo a riesumare le proprie scelte e a doverne seppellire di nuove.</description>
     </item>
     <item>
       <title>Il (mio) paradosso del nonno</title>
-      <link>http://localhost:59356/blog/04.il-mio-paradosso-del-nonno/</link>
+      <link>//localhost:1313/blog/04.il-mio-paradosso-del-nonno/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59356/blog/04.il-mio-paradosso-del-nonno/</guid>
-      <description>Un pezzo di racconto breve&amp;nbsp;¶ “Il momento era solenne. Decenni di derisione e scherno da parte della comunità scientifica che oramai lo additava come un folle millantatore di impossibili imprese non erano altro che ricordi spazzatura nella mente del dottor B. Quella che gli si parava davanti era la sua più grande invenzione, magistrale cocktail di ingegneria, fisica e matematica, la macchina del tempo apriva al luminare le strade, le porte e l’oblò ad un futuro ( o forse molti ) che lo avrebbe visto inciso nella memoria del genere umano.</description>
+      <guid>//localhost:1313/blog/04.il-mio-paradosso-del-nonno/</guid>
+      <description>Un pezzo di racconto breve “Il momento era solenne. Decenni di derisione e scherno da parte della comunità scientifica che oramai lo additava come un folle millantatore di impossibili imprese non erano altro che ricordi spazzatura nella mente del dottor B. Quella che gli si parava davanti era la sua più grande invenzione, magistrale cocktail di ingegneria, fisica e matematica, la macchina del tempo apriva al luminare le strade, le porte e l’oblò ad un futuro ( o forse molti ) che lo avrebbe visto inciso nella memoria del genere umano.</description>
     </item>
   </channel>
 </rss>

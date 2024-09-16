@@ -1,7 +1,8 @@
 ---
-title: "Progetto Youngs for Youngs"
+title: "Youngs for Youngs"
+description: "Un idea di mentoring coadiuvata da quattro esperienze universitarie diverse!"
 layout: "single"
-type: "posts"
+type: "post"
 url: "/y4y"
 date: 2021-11-01
 draft: false
