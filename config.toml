@@ -1,5 +1,5 @@
-enableRobotsTXT: true
-baseURL: "https://gioim.netlify.app/"
+enableRobotsTXT = true
+baseURL = "https://gioim.netlify.app/"
 languageCode = "en-us"
 theme = ["hugo-winston-theme", "hugo-shortcode-gallery"]
 themesDir = "themes"
