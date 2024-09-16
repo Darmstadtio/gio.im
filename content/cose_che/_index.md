@@ -1,11 +1,11 @@
 ---
-title: "Cose Che"
-layout: "list_only_years"
-url: "/cose_che/"
-description: ""
+title: "Cose che Faccio"
+layout: "list"
+url: "/cose_che"
 draft: false
 ---
 
-_tutti i progetti? Forse solo quelli che sono riusciti : ]_
+### Idee e Cose
 
-////////////////////////////////////////////////////////////////////////////////////////////////
+Quante cose si possono fare tutte assieme? Una? Due? **Cento**?! 
+Non lo so, ma qua ho intenzione di raccoglierne alcune. Tutti i progetti? Forse solo quelli che sono riusciti :)

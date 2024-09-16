@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>update on Gio.im</title>
+    <link>http://localhost:1313/tags/update/</link>
+    <description>Recent content in update on Gio.im</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Update #18</title>
+      <link>http://localhost:1313/blog/00.update/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/00.update/</guid>
+      <description>#18 | 06/09/2022&amp;nbsp;¶ Il nuovo sito è online (questo)!
+Cosa è cambiato? Praticamente tutto. Era da un po&amp;rsquo; di tempo che stavo pensando di rinnovare completamente il mio sito web; in particolare cercavo di trovare una soluzione adatta alle mie esigenze e capacità, che mi permettesse di emanciparmi da Google Sites, sia come &amp;ldquo;framework&amp;rdquo;, che come spazio di hosting. Hugo è stata la mia risposta. Vorrei raccontare tutte le vicende e le vicissitudini dietro alla riscrittura di gio.</description>
+    </item>
+    
+  </channel>
+</rss>

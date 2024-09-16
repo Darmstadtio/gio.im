@@ -1,6 +1,5 @@
 ---
-title: "Centro Zero"
-description: "Membro e segretario della prima Associazione giovanile indipendente di Palosco!"
+title: "Progetto Centro Zero"
 layout: "single"
 type: "posts"
 url: "/centro_zero"

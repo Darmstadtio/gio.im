@@ -1,6 +1,5 @@
 ---
-title: "Project IF"
-description: "Quando mi 'misi in proprio' post pandemia iniziando a lavorare come social media manager!"
+title: "Progetto IF"
 layout: "single"
 type: "posts"
 url: "p_if"
@@ -9,6 +8,7 @@ draft: false
 tags:
   - progetti
 ---
+
 
 ### Cosa Project If:
 
@@ -28,5 +28,6 @@ Bhe e poi perchè mi piace anche ecco.
 
 #### Ed Ora?
 
+Ed ora... [Contattatemi]({{< ref "/gio/contatti" >}} "Contattatemi") :D (<- clicca pure qui!)
 
 ![Project IF](/cose_che/project_if.webp)

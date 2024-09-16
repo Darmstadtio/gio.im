@@ -1,0 +1,36 @@
+enableRobotsTXT: true
+baseURL: "https://gioim.netlify.app/"
+languageCode: en-us
+title: Gio.im
+theme:
+  - hugo-theme-sam-master-1
+  - hugo-shortcode-gallery-master
+
+params:
+  mainMenu:
+    - link: /gio
+      text: chi è gio?
+      weight: 10
+    - link: /blog
+      text: cose che scrivo
+      weight: 20
+    - link: /fotografia
+      text: cose che fotografo
+      weight: 30
+    - link: /cose_che
+      text: cose che faccio
+      weight: 40
+  dateform: 2006 Jan, 02
+  dateformfull: 2006 Jan 2  15:04:05 EST
+  videoBackground:
+    sources:
+      - source: /struttura/space_loop_sfondo.mp4
+        type: video/mp4
+  favicon: /struttura/logo.ico
+  description: un nodo nella rete, ed io, Gio, l'internauta che lo tesse
+
+imaging:
+  exif:
+    includeFields: .*
+
+timeout: 900000
