@@ -12,7 +12,7 @@
 {{ end }}
 
 <!-- Custom css -->
-{{ if .Site.IsServer }}
+{{ if hugo.IsServer }}
   {{ range .Site.Params.customCSS -}}
     {{ $style := resources.Get . }}
       <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous" media="screen">

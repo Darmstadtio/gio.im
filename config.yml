@@ -3,8 +3,8 @@ baseURL: "https://gioim.netlify.app/"
 languageCode: en-us
 title: Gio.im
 theme:
+  - hugo-theme-sam-master-1
   - hugo-shortcode-gallery-master
-  - hugo-theme-sam-master
 
 params:
   mainMenu:

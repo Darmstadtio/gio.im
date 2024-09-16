@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=59356&amp;path=livereload" data-no-instant defer></script>
     
     <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="chrome=1">
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -36,7 +35,10 @@
 
 
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
+<link rel="stylesheet" href="/fonts/didact_gothic/Didact_Gothic.css">
+
+
+
 
 
   <meta name="twitter:card" content="summary">
@@ -45,7 +47,7 @@
 -
 Il sottotitolo dice “Less is more”. È vero che è una locuzione oramai famosissima e che pare un controsenso applicata al titolo, ma non lo è. Giuro, poi vi spiego. Cosa è la noia? Cosa significa per noi “annoiarsi”?">
 
-<meta property="og:url" content="http://localhost:1313/blog/03.abbiamo-bisogno-della-noia/">
+<meta property="og:url" content="http://localhost:59356/blog/03.abbiamo-bisogno-della-noia/">
   <meta property="og:site_name" content="Gio.im">
   <meta property="og:title" content="Abbiamo bisogno della noia">
   <meta property="og:description" content="Less is more. No? ¶ OT: questo “articolo” si sarebbe dovuto intitolare “Abbiamo ucciso la noia” oppure “La noia è morta, e noi l’abbiamo uccisa” citando e parafrasando Nietzsche. Ma vabbè.
@@ -60,16 +62,14 @@ Il sottotitolo dice “Less is more”. È vero che è una locuzione oramai famo
     <meta property="article:tag" content="Pensieri">
 
 
+  
+
+
     
 
     
     
     
-    <title>
-        
-        Abbiamo bisogno della noia
-        
-    </title>
 </head>
 
 <body>
@@ -120,12 +120,41 @@ Risposta breve? Perchè la noia è forse al cosa più personale che abbiamo.
 Risposta lunga? Fino ad ora ho parlato, a livello &ldquo;umano&rdquo; solo e soltanto di società. Ma la noia è personale, vero, ma la è la società che definisce il nostro &ldquo;potenziale d&rsquo;agire&rdquo;, ovvero è all&rsquo;interno della società in cui ci muoviamo che sviluppiamo questa stessa possibilità di trasformarci in Atto. Ma la società, per quanto incubatore del nostro agire, agisce anche lei a sua volta, e abbiamo visto in che direzione questa tende e tende a tendere i suoi incubati. Se il nostro agire è &ldquo;solo&rdquo; frutto della sovrastruttura in cui ci è concesso esistere, l&rsquo;unica cosa che ci rimane è il non agire. Lo stare fermi, il non scegliere, l&rsquo;essere buchi neri di intenzionalità, questo fa di noi degli outsider della società e come tali, non trovando appiglio in essa, soli con noi stessi. Ecco, noi e la noia. Noi e la nostra più intima descrizione.</p>
 <p><em>Work in progress&hellip;</em></p>
 <p><p style="text-align:center;">
-    <img src="/blog/03.noia.webp" alt="Abbiamo bisogno della Noia"  />
+    
+    <img src="/blog/03.noia.webp" alt="Abbiamo bisogno della Noia">
+    
 </p>
 </p>
 
     </article>
+
 </div>
+
+<div class="show-comments">
+    <button id="show-comments-button" onclick="disqus();return false;">Show Comments</button>
+</div>
+
+<div id="disqus_thread"></div>
+
+<script>
+    var disqus_loaded = false;
+    
+
+    
+
+    function disqus() {
+        if (!disqus_loaded)  {
+            document.getElementById("show-comments-button").style.display = "none";
+            disqus_loaded = true;
+            var d = document, s = d.createElement('script');
+            s.src = 'https://matze0.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        }
+    };
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
 
 
         
@@ -144,24 +173,27 @@ Risposta lunga? Fino ad ora ho parlato, a livello &ldquo;umano&rdquo; solo e sol
 
     
         
+            
             <a href="/gio">chi è gio?</a>
         
-    
-    
-        
-            &#183; 
+            
+                &#183;
+            
             <a href="/blog">cose che scrivo</a>
         
-            &#183; 
+            
+                &#183;
+            
             <a href="/fotografia">cose che fotografo</a>
         
-            &#183; 
+            
+                &#183;
+            
             <a href="/cose_che">cose che faccio</a>
         
+        
+        
     
-    
-    
-
 </p>
 </nav>
 

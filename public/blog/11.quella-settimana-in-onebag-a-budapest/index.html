@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=59356&amp;path=livereload" data-no-instant defer></script>
     
     <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="chrome=1">
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -36,7 +35,10 @@
 
 
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
+<link rel="stylesheet" href="/fonts/didact_gothic/Didact_Gothic.css">
+
+
+
 
 
   <meta name="twitter:card" content="summary">
@@ -45,7 +47,7 @@
 L’aereo precedente al nostro deve aver trovato traffico in volo perchè abbiamo fatto un poco di ritardo tra imbarco e arrivo. Alla fine abbiamo messo ali e piedi un suolo ungherese alle 16.37
 DIREZIONE HOTEL ¶ -&gt; Viaggio con autista privato dall’aereoporto a “City Guest House” in via […]">
 
-<meta property="og:url" content="http://localhost:1313/blog/11.quella-settimana-in-onebag-a-budapest/">
+<meta property="og:url" content="http://localhost:59356/blog/11.quella-settimana-in-onebag-a-budapest/">
   <meta property="og:site_name" content="Gio.im">
   <meta property="og:title" content="Quella settimana in onebag a Budapest">
   <meta property="og:description" content="A BUDAPEST CON BECKY&amp;GIO &lt;3 ¶ MARTEDÌ 29/08/2023 ¶ DIREZIONE BUDAPEST ¶ -&gt; Partenza da Bergamo Orio al Serio alle 14.40 e arrivo in a Budapest alle 16.10.
@@ -59,16 +61,14 @@ DIREZIONE HOTEL ¶ -&gt; Viaggio con autista privato dall’aereoporto a “Cit
     <meta property="article:tag" content="Blog">
 
 
+  
+
+
     
 
     
     
     
-    <title>
-        
-        Quella settimana in onebag a Budapest
-        
-    </title>
 </head>
 
 <body>
@@ -202,7 +202,34 @@ Deeeecollo!</p>
 <p>Casetta &lt;3</p>
 
     </article>
+
 </div>
+
+<div class="show-comments">
+    <button id="show-comments-button" onclick="disqus();return false;">Show Comments</button>
+</div>
+
+<div id="disqus_thread"></div>
+
+<script>
+    var disqus_loaded = false;
+    
+
+    
+
+    function disqus() {
+        if (!disqus_loaded)  {
+            document.getElementById("show-comments-button").style.display = "none";
+            disqus_loaded = true;
+            var d = document, s = d.createElement('script');
+            s.src = 'https://matze0.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        }
+    };
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
 
 
         
@@ -221,24 +248,27 @@ Deeeecollo!</p>
 
     
         
+            
             <a href="/gio">chi è gio?</a>
         
-    
-    
-        
-            &#183; 
+            
+                &#183;
+            
             <a href="/blog">cose che scrivo</a>
         
-            &#183; 
+            
+                &#183;
+            
             <a href="/fotografia">cose che fotografo</a>
         
-            &#183; 
+            
+                &#183;
+            
             <a href="/cose_che">cose che faccio</a>
         
+        
+        
     
-    
-    
-
 </p>
 </nav>
 
