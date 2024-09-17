@@ -21,7 +21,8 @@ _inserire commento sagace sulla fotografia qui_
   previewType="blur"
   embedPreview="true"
   loadJQuery=true
-    filterOptions="[{label: 'All', tags: '.*'}, {label: 'Black/White', tags: 'bn'}, {label: 'Color', tags: 'c'}, {label: 'Progetti', tags: 'pr'}]" storeSelectedFilterInUrl=true
+  filterOptions="[{label: 'All', tags: '.*'}, {label: 'Black/White', tags: 'bn'}, {label: 'Color', tags: 'c'}, {label: 'Progetti', tags: 'pr'}]" 
+  storeSelectedFilterInUrl=true
 >}}
 
 

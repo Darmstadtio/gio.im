@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "E:/03.PROJECT/PROJECT SITO GIO/SITO HUGO/gio.im",
+	"sourceRoot": "E:/03.PROJECTS/PROJECT SITO GIO/SITO HUGO/gio.im",
 	"sources": [
 		"themes/hugo-theme-sam-master-1/assets/sass/style.scss",
 		"themes/hugo-theme-sam-master-1/assets/sass/_vars.scss",

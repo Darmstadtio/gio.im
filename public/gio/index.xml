@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chi sono? on Gio.im</title>
-    <link>http://localhost:59356/gio/</link>
+    <link>http://localhost:1313/gio/</link>
     <description>Recent content in Chi sono? on Gio.im</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:59356/gio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/gio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contatti</title>
-      <link>http://localhost:59356/contatti/</link>
+      <link>http://localhost:1313/contatti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59356/contatti/</guid>
-      <description>Contatti = Social, no?&amp;nbsp;¶ Eccone una bella lista! Mi vuoi Contattare puoi trovarmi qui: su Telegram, su Mastodon su Instagram e su Matrix&amp;hellip; oppure inviarmi un email (quanto professionale).&#xA;Se invece ti va di venire a trovarmi direttamente a casa bhe, ne sarei incredibilmente onorato, nonchè soprendentemente spaventato!&#xA;_&#xA;Instagram: @gio.marchetts&#xA;Mastodon: @darmstadtio@mastodon.uno&#xA;Matrix: @tantalio:matrix.org&#xA;Telegram: @darmstadtio&#xA;Email: ciao@gio.im</description>
+      <guid>http://localhost:1313/contatti/</guid>
+      <description>&lt;h3 id=&#34;contatti--social-no&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#contatti--social-no&#34;&gt;Contatti = Social, no?&lt;span class=&#34;pilcrow&#34;&gt;&amp;nbsp;¶&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Eccone una bella lista! Mi vuoi Contattare puoi trovarmi qui: su Telegram, su Mastodon su Instagram e su Matrix&amp;hellip; oppure inviarmi un email (quanto professionale).&lt;/p&gt;&#xA;&lt;p&gt;Se invece ti va di venire a trovarmi direttamente a casa bhe, ne sarei incredibilmente onorato, nonchè soprendentemente spaventato!&lt;/p&gt;&#xA;&lt;p&gt;_&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instagram&lt;/strong&gt;: @gio.marchetts&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Mastodon&lt;/strong&gt;: @darmstadtio@mastodon.uno&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Matrix&lt;/strong&gt;: @tantalio:matrix.org&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Telegram&lt;/strong&gt;: @darmstadtio&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:ciao@gio.im&#34;&gt;ciao@gio.im&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Una Bio decisamente più seria</title>
-      <link>http://localhost:59356/bio_seria/</link>
+      <link>http://localhost:1313/bio_seria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59356/bio_seria/</guid>
-      <description>Un po di tono, suvvia&amp;nbsp;¶ Ma partiamo con un pò di Lore:&#xA;TUTTA DA RISCRIVERE!&#xA;Sono nato il 28 Ottobre del 1997 e fin da sempre, da bambino, ho la &amp;ldquo;passione&amp;rdquo; per lo spazio, l&amp;rsquo;universo (alle elementari andavo super fiero di conoscere a memoria tutti i pianeti del nostro sistema solare, in ordine, più i nano e gli esopianeti, decisamente un grande traguardo) e il remoto. Nel tempo questa passione mutò, o almeno, accolse affianco a sè la passione per i libri e per quello che ora è il mio percorso di studi: la Filosofia.</description>
+      <guid>http://localhost:1313/bio_seria/</guid>
+      <description>&lt;h3 id=&#34;un-po-di-tono-suvvia&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#un-po-di-tono-suvvia&#34;&gt;Un po di tono, suvvia&lt;span class=&#34;pilcrow&#34;&gt;&amp;nbsp;¶&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Ma partiamo con un pò di Lore:&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;TUTTA DA RISCRIVERE!&lt;/p&gt;&#xA;&lt;p&gt;Sono nato il 28 Ottobre del 1997 e fin da sempre, da bambino, ho la &amp;ldquo;passione&amp;rdquo; per lo spazio, l&amp;rsquo;universo (alle elementari andavo super fiero di conoscere a memoria tutti i pianeti del nostro sistema solare, in ordine, più i nano e gli esopianeti, decisamente un grande traguardo) e il remoto. Nel tempo questa passione mutò, o almeno, accolse affianco a sè la passione per i libri e per quello che ora è il mio percorso di studi: la &lt;strong&gt;Filosofia&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

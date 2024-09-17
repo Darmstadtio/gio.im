@@ -2,32 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Progetti on Gio.im</title>
-    <link>http://localhost:59356/tags/progetti/</link>
+    <link>http://localhost:1313/tags/progetti/</link>
     <description>Recent content in Progetti on Gio.im</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:59356/tags/progetti/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/progetti/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Progetto Youngs for Youngs</title>
-      <link>http://localhost:59356/y4y/</link>
+      <link>http://localhost:1313/y4y/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59356/y4y/</guid>
-      <description>Cosa è Youngs For Youngs:&amp;nbsp;¶ Difficile a definirsi; Y4Y è un idea, un progetto, un gruppo di amici che ha deciso (o meglio sta decidendo) cosa poter fare per dare sprint e struttura al processo di sviluppo del capitale sociale all&amp;rsquo;interno del territorio in cui vivono.. detto in parole non da ufficio marketing, stiamo cercando di costruire un percorso, una piattaforma, un sistema per mettere in contatto i giovani con le realtà lavorative e accademiche presenti sul territorio attraverso un sistema di mentoring, ossia persone qualificate che mettono a disposizione il proprio tempo e le proprie conoscenze ai giovani interessati a intraprendere carriere nei loro ambiti di competenza.</description>
-    </item>
-    <item>
-      <title>Progetto IF</title>
-      <link>http://localhost:59356/p_if/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59356/p_if/</guid>
-      <description>Cosa Project If:&amp;nbsp;¶ Project IF nasce come &amp;ldquo;esperimento&amp;rdquo; da un esigenza, una possibilità di approccio al mondo del Social Media Managing che non ho voluto lasciare incolta. Senza addentrarci negli albi storici di questo progetto, tramite Project IF gestisco le pagine Social (principalmente Facebook, Instagram e Twitter) di un piccolo numero di aziende ed associazioni per quali, oltre all&amp;rsquo;elaborazione e creazione di campagne social mirate a seconda delle esigenze del Cliente, svolgo anche, laddove necessario, opera di Creator di contenuti per le suddette campagne ed (ovvi) post/aggiornamenti.</description>
-    </item>
-    <item>
-      <title>Progetto Centro Zero</title>
-      <link>http://localhost:59356/centro_zero/</link>
-      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59356/centro_zero/</guid>
-      <description>Cosa è il Centro Zero?&amp;nbsp;¶ Il Centro Zero è un centro apolitico e laico, un luogo d&amp;rsquo;espressione libero dove i giovani possono divertirsi e stare in compagnia di coetanei con cui condividere interessi.&#xA;È un associazione (non riconosciuta) Libera e Indipendente, nata dalla volontà di offrire un&amp;rsquo;alternativa al tessuto sociale di Palosco. Un&amp;rsquo;alternativa scevra di imposizioni o regole, dove l&amp;rsquo;iniziativa personale e il desiderio di mettersi in gioco siano gli unici motori d&amp;rsquo;esistenza.</description>
+      <guid>http://localhost:1313/y4y/</guid>
+      <description>&lt;h3 id=&#34;cosa-è-youngs-for-youngs&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#cosa-%c3%a8-youngs-for-youngs&#34;&gt;Cosa è Youngs For Youngs:&lt;span class=&#34;pilcrow&#34;&gt;&amp;nbsp;¶&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Difficile a definirsi; Y4Y è un idea, un progetto, un gruppo di amici che ha deciso (o meglio sta decidendo) cosa poter fare per dare sprint e struttura al processo di sviluppo del capitale sociale all&amp;rsquo;interno del territorio in cui vivono.. detto in parole non da ufficio marketing, stiamo cercando di costruire un percorso, una piattaforma, un sistema per mettere in contatto i giovani con le realtà lavorative e accademiche presenti sul territorio attraverso un sistema di mentoring, ossia persone qualificate che mettono a disposizione il proprio tempo e le proprie conoscenze ai giovani interessati a intraprendere carriere nei loro ambiti di competenza. È uno scambio finalizzato alla crescita e allo sviluppo reciproco. Con Y4Y cerchiamo di costruire questa crescita.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
