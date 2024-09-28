@@ -2,97 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fotografia/</loc>
+    <loc>https://gioim.netlify.app/tags/blog/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gioim.netlify.app/blog/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gioim.netlify.app/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gioim.netlify.app/blog/13.quella-volta-che-pubblicai-un-template-latex-per-lunimi-su-github/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gioim.netlify.app/tags/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gioim.netlify.app/fotografia/</loc>
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/12.archid-de-pit-lo-gnomo/</loc>
+    <loc>https://gioim.netlify.app/blog/12.archid-de-pit-lo-gnomo/</loc>
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2023-11-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2023-11-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-11-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/11.quella-settimana-in-onebag-a-budapest/</loc>
+    <loc>https://gioim.netlify.app/blog/11.quella-settimana-in-onebag-a-budapest/</loc>
     <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cose/</loc>
+    <loc>https://gioim.netlify.app/tags/cose/</loc>
     <lastmod>2023-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/update/</loc>
+    <loc>https://gioim.netlify.app/tags/update/</loc>
     <lastmod>2023-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/00.update/</loc>
+    <loc>https://gioim.netlify.app/blog/00.update/</loc>
     <lastmod>2023-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/09.il-silenzio-dei-falsi-innocenti---progetto-mosca-2017/</loc>
+    <loc>https://gioim.netlify.app/blog/09.il-silenzio-dei-falsi-innocenti---progetto-mosca-2017/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/08.krikit-von-kli-lhalfling/</loc>
+    <loc>https://gioim.netlify.app/blog/08.krikit-von-kli-lhalfling/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/07.un-nuovo-pc/</loc>
+    <loc>https://gioim.netlify.app/blog/07.un-nuovo-pc/</loc>
     <lastmod>2023-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/06.quella-settimana-a-parigi/</loc>
+    <loc>https://gioim.netlify.app/blog/06.quella-settimana-a-parigi/</loc>
     <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/05.quella-volta-che-non-la-diedi-vinta-a-windows10/</loc>
+    <loc>https://gioim.netlify.app/blog/05.quella-volta-che-non-la-diedi-vinta-a-windows10/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/storie/</loc>
+    <loc>https://gioim.netlify.app/tags/storie/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/04.il-mio-paradosso-del-nonno/</loc>
+    <loc>https://gioim.netlify.app/blog/04.il-mio-paradosso-del-nonno/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/03.abbiamo-bisogno-della-noia/</loc>
+    <loc>https://gioim.netlify.app/blog/03.abbiamo-bisogno-della-noia/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pensieri/</loc>
+    <loc>https://gioim.netlify.app/tags/pensieri/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/libri/</loc>
+    <loc>https://gioim.netlify.app/tags/libri/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/02.noi-ragazzi-dello-zoo-di-berlino/</loc>
+    <loc>https://gioim.netlify.app/blog/02.noi-ragazzi-dello-zoo-di-berlino/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cose_che/</loc>
+    <loc>https://gioim.netlify.app/cose_che/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/progetti/</loc>
+    <loc>https://gioim.netlify.app/tags/progetti/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/y4y/</loc>
+    <loc>https://gioim.netlify.app/y4y/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/01.the-game/</loc>
+    <loc>https://gioim.netlify.app/blog/01.the-game/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://gioim.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/gio/</loc>
+    <loc>https://gioim.netlify.app/gio/</loc>
   </url><url>
-    <loc>http://localhost:1313/contatti/</loc>
+    <loc>https://gioim.netlify.app/contatti/</loc>
   </url><url>
-    <loc>http://localhost:1313/libri_economia/</loc>
+    <loc>https://gioim.netlify.app/libri_economia/</loc>
   </url><url>
-    <loc>http://localhost:1313/libri_filosofia/</loc>
+    <loc>https://gioim.netlify.app/libri_filosofia/</loc>
   </url><url>
-    <loc>http://localhost:1313/libri/</loc>
+    <loc>https://gioim.netlify.app/libri/</loc>
   </url><url>
-    <loc>http://localhost:1313/libri_narrativa/</loc>
+    <loc>https://gioim.netlify.app/libri_narrativa/</loc>
   </url><url>
-    <loc>http://localhost:1313/libri_saggistica/</loc>
+    <loc>https://gioim.netlify.app/libri_saggistica/</loc>
   </url><url>
-    <loc>http://localhost:1313/bio_seria/</loc>
+    <loc>https://gioim.netlify.app/bio_seria/</loc>
   </url>
 </urlset>

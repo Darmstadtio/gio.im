@@ -1,7 +1,27 @@
 {
+  "name": "gio.im",
+  "version": "1.0.0",
+  "description": "Il repo del mio sito web :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darmstadtio/gio.im.git"
+  },
+  "keywords": [
+    "blog",
+    "personal",
+    "webspace"
+  ],
+  "author": "Giorgio M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darmstadtio/gio.im/issues"
+  },
+  "homepage": "https://github.com/Darmstadtio/gio.im#readme",
   "dependencies": {
-    "postcss-cli": "8.3.1",
-    "postcss": "8.2.9",
-    "autoprefixer": "10.2.5"
+    "postcss-cli": "^11.0.0"
   }
 }
