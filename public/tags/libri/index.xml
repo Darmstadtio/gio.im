@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Libri on Un Nodo nella Rete</title>
-    <link>https://gioim.netlify.app/tags/libri/</link>
+    <link>http://localhost:1313/tags/libri/</link>
     <description>Recent content in Libri on Un Nodo nella Rete</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gioim.netlify.app/tags/libri/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/libri/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Noi, ragazzi dello zoo di Berlino</title>
-      <link>https://gioim.netlify.app/blog/02.noi-ragazzi-dello-zoo-di-berlino/</link>
+      <link>http://localhost:1313/blog/02.noi-ragazzi-dello-zoo-di-berlino/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://gioim.netlify.app/blog/02.noi-ragazzi-dello-zoo-di-berlino/</guid>
+      <guid>http://localhost:1313/blog/02.noi-ragazzi-dello-zoo-di-berlino/</guid>
       <description>&lt;h3 id=&#34;ovvero-chiedersi-quanto-è-profonda-la-tana-del-bianconiglio&#34;&gt;Ovvero chiedersi: quanto è profonda la tana del bianconiglio?&lt;/h3&gt;&#xA;&lt;p&gt;Ho scritto che avrei voluto scrivere di questa lettura anche nelle &amp;ldquo;Ultime&amp;rdquo; nella home del sito perchè &lt;em&gt;&amp;ldquo;Noi, Ragazzi&amp;hellip;&amp;rdquo;&lt;/em&gt; mi ha davvero colpito. Non posso negare che il mio rapporto con questo testo sia strano (complice anche il testo in se, ma a questo ci arriviamo poi), strano come il primo incontro con il libro fisico, davvero casuale, che mi ha portato a interessarmene subito e a risvegliare in me una curiosità quasi morbosa che&amp;hellip; vabbè, &lt;em&gt;strani giri&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Game</title>
-      <link>https://gioim.netlify.app/blog/01.the-game/</link>
+      <link>http://localhost:1313/blog/01.the-game/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://gioim.netlify.app/blog/01.the-game/</guid>
+      <guid>http://localhost:1313/blog/01.the-game/</guid>
       <description>&lt;h3 id=&#34;un-libro-boomer-scritto-per-boomer-di-tutte-le-età&#34;&gt;Un libro boomer scritto per boomer (di tutte le età)&lt;/h3&gt;&#xA;&lt;p&gt;Un libro &amp;lsquo;strano&amp;rsquo;. Non posso dire che The Game non mi sia piaciuto, è un libro molto interessante che, nell&amp;rsquo;essere stato scritto nel 2018, è su certi punti anche avanguardista per quelli che sarebbero poi stati gli sviluppi della società digitale moderna (tema del libro).&lt;/p&gt;&#xA;&lt;p&gt;The Game tratta della storia della Rivoluzione Informatica sulla società, dalle sue origini negli anni 60&amp;rsquo; del 900&amp;rsquo;, fino ai più recenti sviluppi. Il taglio dato da Baricco nella stesura del testo risulta essere un taglio molto personale, colloquiale in certi punti; Baricco stesso nelle prime pagine del testo riferisce al lettore come questo libro lo stia scrivendo principalmente per sé, e ciò si vede, si sente, si legge, Il lettore percepisce, attraverso l&amp;rsquo;esposizione, come gli argomenti siano fortemente filtrati dall&amp;rsquo;ottica e dall&amp;rsquo;entusiasmo dell&amp;rsquo;autore. Baricco scrive in maniera fantastica, estremamente chiare e precisa ma (e qui secondo me sta il fulcro dietro il &amp;lsquo;peso&amp;rsquo; involontario del testo) troppo diretta, troppo per sé, e quindi, troppo fuori dal contesto che vuole raccontare. Mi spiego.&lt;/p&gt;</description>
     </item>
   </channel>
