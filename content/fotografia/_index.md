@@ -17,7 +17,7 @@ _foto foto foto!_
   showExif="true"
   previewType="blur"
   embedPreview="true"
-  loadJQuery="false"
+  loadJQuery=false
     filterOptions="[{label: 'All', tags: '.*'}, {label: 'Black/White', tags: 'bn'}, {label: 'Color', tags: 'c'}, {label: 'Progetti', tags: 'pr'}]" storeSelectedFilterInUrl=true
 >}}
 
