@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cose Che on Un Nodo nella Rete</title>
+    <link>http://localhost:1313/cose_che/</link>
+    <description>Recent content in Cose Che on Un Nodo nella Rete</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/cose_che/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cose Che Leggo</title>
+      <link>http://localhost:1313/cose_che_leggo/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cose_che_leggo/</guid>
+      <description>&lt;p&gt;Ho sempre &lt;em&gt;adorato&lt;/em&gt; leggere, sempre, fin da bambino. I miei primi approcci alla lettura furono decine e decine di libri e racconti di Geronimo Stilton che, gettato sul divano, nei pomeriggi senza scuola, divoravo.&lt;/p&gt;&#xA;&lt;p&gt;Ed ora? Ora si è grandi, e dopo aver affrontato la fase &amp;ldquo;classici della letteratura&amp;rdquo;, è giunto il momento di destreggiarsi anche nell&amp;rsquo;oscuro mondo della saggistica: un mondo fatto di pagine e pagine di spiegazioni, niente dialoghi, e (di solito) molta sostanza!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Youngs for Youngs</title>
+      <link>http://localhost:1313/y4y/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/y4y/</guid>
+      <description>&lt;h3 id=&#34;cosa-è-youngs-for-youngs&#34;&gt;Cosa è Youngs For Youngs:&lt;/h3&gt;&#xA;&lt;p&gt;Difficile a definirsi; Y4Y è un idea, un progetto, un gruppo di amici che ha deciso (o meglio sta decidendo) cosa poter fare per dare sprint e struttura al processo di sviluppo del capitale sociale all&amp;rsquo;interno del territorio in cui vivono.. detto in parole non da ufficio marketing, stiamo cercando di costruire un percorso, una piattaforma, un sistema per mettere in contatto i giovani con le realtà lavorative e accademiche presenti sul territorio attraverso un sistema di mentoring, ossia persone qualificate che mettono a disposizione il proprio tempo e le proprie conoscenze ai giovani interessati a intraprendere carriere nei loro ambiti di competenza. È uno scambio finalizzato alla crescita e allo sviluppo reciproco. Con Y4Y cerchiamo di costruire questa crescita.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project IF</title>
+      <link>http://localhost:1313/p_if/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/p_if/</guid>
+      <description>&lt;h3 id=&#34;cosa-project-if&#34;&gt;Cosa Project If:&lt;/h3&gt;&#xA;&lt;p&gt;Project IF nasce come &amp;ldquo;esperimento&amp;rdquo; da un esigenza, una possibilità di approccio al mondo del Social Media Managing che non ho voluto lasciare incolta. Senza addentrarci negli albi storici di questo progetto, tramite Project IF gestisco le pagine Social (principalmente Facebook, Instagram e Twitter) di un piccolo numero di aziende ed associazioni per quali, oltre all&amp;rsquo;elaborazione e creazione di campagne social mirate a seconda delle esigenze del Cliente, svolgo anche, laddove necessario, opera di Creator di contenuti per le suddette campagne ed (ovvi) post/aggiornamenti.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Centro Zero</title>
+      <link>http://localhost:1313/centro_zero/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/centro_zero/</guid>
+      <description>&lt;h3 id=&#34;cosa-è-il-centro-zero&#34;&gt;Cosa è il Centro Zero?&lt;/h3&gt;&#xA;&lt;p&gt;Il Centro Zero è un centro apolitico e laico, un luogo d&amp;rsquo;espressione libero dove i giovani possono divertirsi e stare in compagnia di coetanei con cui condividere interessi.&lt;/p&gt;&#xA;&lt;p&gt;È un associazione (non riconosciuta) Libera e Indipendente, nata dalla volontà di offrire un&amp;rsquo;alternativa al tessuto sociale di Palosco. Un&amp;rsquo;alternativa scevra di imposizioni o regole, dove l&amp;rsquo;iniziativa personale e il desiderio di mettersi in gioco siano gli unici motori d&amp;rsquo;esistenza. Un luogo che vive di persone.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
