@@ -1,11 +1,8 @@
 ---
-title: "Cose che scrivo"
-layout: "list"
-url: "/blog"
-draft: false
+title: "Blog"
+date: 2024-08-07
 ---
 
-### Un esperimento di blogging
-Ciao! Cosa è questa pagina? A cosa serve questa pagina? Perchè esiste questa pagina? _Ottime domande._
+_sappiamo tutti cosa sia un blog, no?_ 
 
-**Gio.im** è un nodo, il mio nodo nella rete, e su questo nodo io desidero raccontare e raccontarmi. Con queste premesse, e l'intenzione di rispondere alle domande di poco sopra: benvenuti nel mio ***Blog!***
+//////////////////////////
