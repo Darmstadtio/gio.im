@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "C:/Users/Gio/Desktop/gio4.1",
+	"sourceRoot": "E:/03.PROJECTS/PROJECT SITO GIO/SITO HUGO/gio.im",
 	"sources": [
 		"themes/hugo-winston-theme/assets/scss/style.scss",
 		"themes/hugo-winston-theme/assets/scss/_normalize.scss",
