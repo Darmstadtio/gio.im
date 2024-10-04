@@ -6,7 +6,7 @@ date: 2024-02-24
 _foto foto foto!_
 
 //////////////////////////
-	
+
 {{<
   gallery  
   match="images/*"  
