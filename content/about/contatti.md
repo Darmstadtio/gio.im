@@ -7,13 +7,15 @@ draft: false
 ---
 
 
-### Contatti = Social, no?
+_Contatti = Social, no?_
+
+//////////////////////////
 
 Eccone una bella lista! Mi vuoi Contattare puoi trovarmi qui: su Telegram, su Mastodon su Instagram e su Matrix... oppure inviarmi un email (quanto professionale).
 
 Se invece ti va di venire a trovarmi direttamente a casa bhe, ne sarei incredibilmente onorato, nonchè soprendentemente spaventato!
 
-//////////////////////////
+
 
 - **Instagram**: @gio.marchetts  
 - **Mastodon**: @darmstadtio@mastodon.uno  

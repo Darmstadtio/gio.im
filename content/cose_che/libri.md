@@ -118,6 +118,6 @@ __
 | Mark Twain | | Le Avventure di Tom Sawyer |
 | Carlo Collodi | | Le Avventure di Pinocchio |
 | Frances H. Burnett | | Il Giardino Segreto |
-| Geronimo Stilton | | moltissii! |
+| Geronimo Stilton | | moltissimi! |
 
 e molti altri Classici..
