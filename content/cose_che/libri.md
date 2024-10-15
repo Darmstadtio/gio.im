@@ -18,96 +18,106 @@ Spero di non fermarmi mai con questa pagina :)
 __
 
 # COSA STO LEGGENDO ORA
-> **L'Uomo di Marte - The Martian** - di Andy Weir
+> **I Robot dell'Alba** - di Isaac Asimov
 
 __
 
 # COSA HO LETTO FINORA
 
+
 ### SAGGISTICA
-- **Pappagalli Verdi: cronache di un chirurgo di guerra** - di Gino Strada
-- **L'Arte della Guerra** - di Sun Tzu
-- **C'era una volta un paradosso, storie di illusioni e verità rovesciate** - di Piergiorgio Odifreddi
-- **Non credere a tutto quello che ti frulla in testa** - di Alexandra Reinwarth
-- **Diventa un Tiranno** - di Antonio Losito
-- **Non pensare all'Elefante! Come riprendersi il discorso politico** - di George Lakeoff
-- **La Patria, Bene o Male** - di C. Fruttero e M. Gramellini
-- **Contro il Razzismo** - di Marco Aime
-- **L'Ordine del Tempo** - di Carlo Rovelli
-- **Saggi di Storie del Pensiero Scientifico** - di Enrico Giannetto
-- **The Game** - di A. Baricco
+| | | | 
+| --- | ---| --- | 
+| Gino Strada | | Pappagalli Verdi: cronache di un chirurgo di guerra | 
+| Sun Tzu | | L'Arte della Guerra | 
+| Piergio Odifreddi | | C'era una volta un paradosso, storie di illusioni e verità rovesciate |
+| Alexandra Reinwarth | | Non credere a tutto quello che ti frulla in testa |
+| Antonio Losito | | Diventa un Tiranno |
+| George Lakeoff | | Non pensare all'Elefante! Come riprendersi il discorso politico |
+| C. Fruttero e M. Gramellini | | La Patria, Bene o Male |
+| Marco Aime | | Contro il Razzismo |
+| Carlo Rovelli | | L'Ordine del Tempo |
+| Enrico Giannetto | | Saggi di Storie del Pensiero Scientifico |
+| Alessandro Baricco | | The Game |
 
 ### FILOSOFIA
-- **Le passeggiate del sognatore solitario** - di Jean-Jacques Rousseau
-- **La Banalità del Male** - di Hannah Arendt
-- **I Viaggi nel Tempo** - di Giuliano Torrengo
-- **Filosofia del Tempo** - di Francesco Orilia
-- **Il Contratto Sociale** - Jean-Jacques Rousseau
-- **Secondo Trattato sul Governo** - John Locke
-- **Il Soggetto Dif-ferente** - di Sante Maletta
-- **Dopo la Virtù** - di Alasdair MacIntyre
-- **Il Potere dei Senza Potere** - di Vaclav Havel
-- **La Cura dell'Anima** - di Jan Patocka
-- **La Filosofia come modo di Vivere** - di Pier Hadot
-- **Finzioni** - di Jorge Luis Borges
-- **Pensare** - di Coliva e Lalumera
-- **Logica da Zero a Godel** - di Francesco Berto
-- **Parole Oggetti Eventi** - di Achille C. Varzi
-- **Il Simposio** - di Platone
+| | | |
+| --- | --- | --- |
+| Jean-Jacques Rousseau | | Le passeggiate del sognatore solitario |
+| Hannah Arendt | | La Banalità del Male | 
+| Giuliano Torrengo | | I Viaggi nel Tempo |
+| Francesco Orilia | | Filosofia del Tempo |
+| Jean-Jacques Rousseau | | Il Contratto Sociale |
+| John Locke | | Secondo Trattato sul Governo |
+| Sante Maletta | | Il Soggetto Dif-ferente |
+| Alasdair MacIntyre | | Dopo la Virtù |
+| Vaclav Havel | | Il Potere dei Senza Potere |
+| Jan Patocka | | La Cura dell'Anima |
+| Pier Hadot | | La Filosofia come modo di Vivere |
+| Jorge Luis Borges | | Finzioni |
+| Coliva e Lalumera | | Pensare |
+| Francesco Berto | | Logica da Zero a Godel |
+| Achille C. Varzi | | Parole Oggetti Eventi |
+| Platone | | Il Simposio |
 
 ### ECONOMIA
-- **Finanzcapitalismo - la civiltà del denaro in crisi** - di Luciano Gallino
-- **Da Zero a Uno** - di Peter Thiel
-- **Lavoretti** - di Riccardo Staglianò
-- **La Scienza Inutile** - di Francesco Saraceno
-- **Smith Ricardo Marx Sraffa** - di Riccardo Bellofiore
+| | | |
+| --- | --- | --- |
+| Luciano Gallino | | Finanzcapitalismo - la civiltà del denaro in crisi |
+| Peter Thiel | | Da Zero a Uno |
+| Riccardo Staglianò | | Lavoretti
+| Francesco Saraceno | | La Scienza Inutile |
+| Riccardo Bellofiore | | Smith Ricardo Marx Sraffa |
 
 ### NARRATIVA
-- **La Grande Fuga dell'Ottobre Rosso** - di Tom Clancy
-- **La Prova del Fuoco** - di Ben Bova
-- **Uno, Nessuno e Centomila** - di Luigi Pirandello
-- **Oceano Mare** - di Alessandro Baricco
-- **Il Paradiso degli Orchi** - di Daniel Pennac
-- **Il Fu Mattia Pascal** - di Luigi Pirandello
-- **Le intermittenze della Morte** - di Josè Saramago
-- **Molto dopo mezzanotte** - di Ray Bradbury
-- **Flatlandia** - di Edwin Abbott Abbott
-- **Kobane Calling** - di Zerocalcare
-- **Noi, Ragazzi dello Zoo di Berlino** - di Christiane F.
-- **Il Cerchio** - di Dave Eggers
-- **Il Signore delle Mosche** - di William Golding
-- **La Fattoria degli Animali** - di George Orwell
-- **1984** - di George Orwell
-- **Fahrenheit 451** - di Ray Bradbury
-- **Il Mondo Nuovo** - di Aldous Huxley
-- **Solaris** - di Stanislaw Lem
-- **Io Robot** - di Isaac Asimov
-- **Abissi d'Acciaio** - di Isaac Asimov
-- **Il Sole Nudo** - di Isaac Asimov
-- **Il Ciclo della Fondazione** - di Isaac Asimov
-- **Neanche gli Dei** - di Isaac Asimov
-- **Guida Galattica per Autostoppisti** - Douglas Adams
-- **Il Padrino** - di Mario Puzo
-- **Il Sergente nella Neve** - di Mario Rigoni Stern
-- **Il Calice della Vita** - di Glenn Cooper
-- **La Biblioteca dei Morti** - di Glenn Cooper
-- **L'Oro di Sparta - di Clive** Cussler
-- **La Freccia di Poseidone** - di Clive Cussler
-- **Recuperate il Titanic!** - di Clive Cussler
-- **Alba di Fuoco** - di Clive Cussler
-- **Morsa di Ghiaccio** - di Clive Cussler
-- **Vento Nero** - di Clive Cussler
-- **Cyclops** - di Clive Cussler
-- **Quota Periscopio** - di Tom Clancy
-- **20.000 Leghe sotto i Mari** - di Julius Verne
-- **Moby Dick** - di Herman Melville
-- **Il Corsaro Nero** - di Emilio Salgari
-- **Zanna Bianca** - di Jack London
-- **Tre Uomini in Barca** - di Jerome K. Jerome
-- **I Tre Moschettieri** - di Alexandre Dumas
-- **Le Avventure di Tom Sawyer** - di Mark Twain
-- **Le Avventure di Pinocchio** - di Carlo Collodi
-- **Il Giardino Segreto** - di Frances H. Burnett
-- **Un sacco di Geronimo Stilton** - di Geronimo Stilton
+| | | |
+| --- | --- | --- |
+| Andy Weir | | L'Uomo di Marte - The Martian |
+| Tom Clancy | | La Grande Fuga dell'Ottobre Rosso |
+| Ben Bova | | La Prova del Fuoco |
+| Luigi Pirandello | | Uno, Nessuno e Centomila |
+| Alessandro Baricco | | Oceano Mare |
+| Daniel Pennac | | Il Paradiso degli Orchi |
+| Luigi Pirandello | | Il Fu Mattia Pascal |
+| Josè Saramago | | Le intermittenze della Morte |
+| Ray Bradbury | | Molto Dopo Mezzanotte |
+| Edwin Abbott Abbott | |Flatlandia |
+| Zerocalcare | | Kobane Calling |
+| Christiane F. | | Noi, Ragazzi dello Zoo di Berlino |
+| Dave Eggers | | Il Cerchio |
+| William Golding | | Il Signore delle Mosche |
+| George Orwell | | La Fattoria degli Animali |
+| George Orwell | | 1984 |
+| Ray Bradbury | | Fahrenheit 451 |
+| Aldous Huxley | | Il Mondo Nuovo |
+| Stanislaw Lem | | Solaris |
+| Isaac Asimov | | Il Sole Nudo |
+| Isaac Asimov | | Abissi d'Acciaio |
+| Isaac Asimov | | Io Robot |
+| Isaac Asimov | | Il Ciclo della Fondazione |
+| Isaac Asimov | | Isaac AsimovNeanche gli Dei |
+| Douglas Adams | | Guida Galattica per Autostoppisti |
+| Mario Puzo | | Il Padrino |
+| Mario Rigoni Stern | | Il Sergente nella Neve |
+| Glenn Cooper | | Il Calice della Vita |
+| Glenn Cooper | | La Biblioteca dei Morti |
+| Clive Cussler | | L'Oro di Sparta |
+| Clive Cussler | | La Freccia di Poseidone |
+| Clive Cussler | | Recuperate il Titanic! |
+| Clive Cussler | | Alba di Fuoco |
+| Clive Cussler | | Vento Nero |
+| Clive Cussler | | Cyclops |
+| Clive Cussler | | Morsa di Ghiaccio |
+| Tom Clancy | | Quota Periscopio |
+| Julius Verne | | 20.000 Leghe sotto i Mari |
+| Herman Melville | | Moby Dick |
+| Emilio Salgari | | Il Corsaro Nero |
+| Jack London | | Zanna Bianca |
+| Jerome K. Jerome | | Tre Uomini in Barca |
+| Alexandre Dumas | | I Tre Moschettieri |
+| Mark Twain | | Le Avventure di Tom Sawyer |
+| Carlo Collodi | | Le Avventure di Pinocchio |
+| Frances H. Burnett | | Il Giardino Segreto |
+| Geronimo Stilton | | moltissii! |
 
 e molti altri Classici..
