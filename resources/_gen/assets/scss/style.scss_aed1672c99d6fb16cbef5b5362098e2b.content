@@ -128,10 +128,10 @@ ul {
     list-style: none; }
 
 .content {
-  font-size: 18px; }
+  font-size: 14px; }
   .content p {
-    font-size: 18px;
-    line-height: 1.6;
+    font-size: 15px;
+    line-height: 1.8;
     margin: 0;
     padding: 0;
     margin-bottom: 20px; }
@@ -800,7 +800,7 @@ body {
       padding: 50px; } }
   body.frame {
     min-height: 100vh;
-    border: 12px solid var(--highlight-color); }
+    border: 8px solid var(--highlight-color); }
 
 .wrapper {
   max-width: 1000px;
