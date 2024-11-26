@@ -1,6 +1,6 @@
 .summary {
   margin-bottom: 50px;
-  font-size: 18px;
+  font-size: 12px;
   line-height: 24px;
   @include breakpoint('small') {
     margin-bottom: 80px;
@@ -18,12 +18,13 @@
     line-height: 38px;
     @include breakpoint('small') {
       width: 80%;
-      font-size: 52px;
+      font-size: 40px;
       line-height: 58px;
     }
   }
   .summary-description {
     width: 80%;
-    line-height: 1.5;
+    line-height: 1.8;
+    font-size: 15px;
   }
 }
