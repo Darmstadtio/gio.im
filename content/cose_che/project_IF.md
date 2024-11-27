@@ -1,5 +1,5 @@
 ---
-title: "Project IF"
+title: "Faccio: Project IF"
 description: "Quando mi 'misi in proprio' post pandemia iniziando a lavorare come social media manager!"
 layout: "single"
 type: "posts"

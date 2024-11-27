@@ -1,6 +1,6 @@
 ---
-title: "Youngs for Youngs"
-description: "Un idea di mentoring coadiuvata da quattro esperienze universitarie diverse!"
+title: "Faccio: Y4Y"
+description: "Youngs for Youngs: un idea di mentoring coadiuvata da quattro esperienze universitarie diverse!"
 layout: "single"
 type: "post"
 url: "/y4y"

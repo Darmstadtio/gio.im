@@ -1,5 +1,5 @@
 ---
-title: "Centro Zero"
+title: "Faccio: Centro Zero"
 description: "Membro e segretario della prima Associazione giovanile indipendente di Palosco!"
 layout: "single"
 type: "posts"

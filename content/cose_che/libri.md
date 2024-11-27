@@ -1,5 +1,5 @@
 ---
-title: "Cose Che Leggo"
+title: "Leggo"
 description: "Un elenco non esaustivo di tutto ciò che leggo, ho letto e sto leggendo!"
 layout: "single"
 type: "posts"
@@ -17,15 +17,15 @@ Spero di non fermarmi mai con questa pagina :)
 
 __
 
-# COSA STO LEGGENDO ORA
+### Cosa sto leggendo:
 > **I Robot dell'Alba** - di Isaac Asimov
 
 __
 
-# COSA HO LETTO FINORA
+### Cosa ho letto:
 
 
-### SAGGISTICA
+#### --- Saggistica 
 | | | | 
 | --- | ---| --- | 
 | Gino Strada | | Pappagalli Verdi: cronache di un chirurgo di guerra | 
@@ -40,7 +40,7 @@ __
 | Enrico Giannetto | | Saggi di Storie del Pensiero Scientifico |
 | Alessandro Baricco | | The Game |
 
-### FILOSOFIA
+#### --- Filosofia
 | | | |
 | --- | --- | --- |
 | Jean-Jacques Rousseau | | Le passeggiate del sognatore solitario |
@@ -60,7 +60,7 @@ __
 | Achille C. Varzi | | Parole Oggetti Eventi |
 | Platone | | Il Simposio |
 
-### ECONOMIA
+#### --- Economia
 | | | |
 | --- | --- | --- |
 | Luciano Gallino | | Finanzcapitalismo - la civiltà del denaro in crisi |
@@ -69,7 +69,7 @@ __
 | Francesco Saraceno | | La Scienza Inutile |
 | Riccardo Bellofiore | | Smith Ricardo Marx Sraffa |
 
-### NARRATIVA
+#### --- Narrativa
 | | | |
 | --- | --- | --- |
 | Andy Weir | | L'Uomo di Marte - The Martian |

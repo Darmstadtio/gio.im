@@ -20,6 +20,8 @@ _foto foto foto!_
   loadJQuery=true  
 >}}
 
+__
+
 ### Qualcosa a riguardo?
 
 Mi piace Fotografare :) Ho iniziato ad esplorare questo mondo attraverso una vecchia, vetusta, (nonchè di mio padre) reflex a rullino: una **Yashica FX3**. Anno di produzione 1979, un'era geologica fa. Ma i rullini costa(va)no, e ormai siamo nell'era del digitale(!): in seguito di uno scellerato tuffo nel mondo dell'usato, evolvo la mia macchina fotografica in una **Sony A280**: una reflex super entrylevel con il pentaprisma evidentemente storto, slittato verso destra. Vabbè, quel che serve per imparare e divertisti. Finalmente, dopo un paio di anni di imprecazioni in composizioni completamente sbagliate, decido di fare il grande passo: upgrade ad una **Sony Alpha7** scattando prima con ancora le ottiche Manuali Analogiche Contax/Yashica e poi con un moderno Sigma 35mm/f2.
