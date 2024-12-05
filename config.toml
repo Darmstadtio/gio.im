@@ -47,11 +47,11 @@ pygmentsUseClasses = true
       xhtml = false
 
 [menu]
-  [[menu.main]]
-    identifier = 'home'
-    name = 'Home'
-    url = '/'
-    weight = 1
+#  [[menu.main]]
+#    identifier = 'home'
+#    name = 'Home'
+#    url = '/'
+#    weight = 1
   [[menu.main]]
     name = "Blog"
     identifier = "blog"
@@ -63,14 +63,19 @@ pygmentsUseClasses = true
     weight = 3
     url = "/fotografia/"
   [[menu.main]]
+    name = "Libri"
+    identifier = "leggo"
+    weight = 4
+    url = "/libri/"
+  [[menu.main]]
     name = "CoseChe"
     identifier = "cose"
-    weight = 4
+    weight = 5
     url = "/cose_che/"
   [[menu.main]]
     name = "AboutMe"
     identifier = "about"
-    weight = 5
+    weight = 6
     url = "/about_me/"
   [[menu.main]]
     name = "Tags"

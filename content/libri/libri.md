@@ -1,9 +1,9 @@
 ---
-title: "Leggo"
+title: "Libri"
 description: "Un elenco non esaustivo di tutto ciò che leggo, ho letto e sto leggendo!"
 layout: "single"
 type: "posts"
-url: "/cose_che_leggo"
+url: "/libri"
 date: 2024-01-01
 draft: false
 ---
