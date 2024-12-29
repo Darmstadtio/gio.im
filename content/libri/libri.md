@@ -18,7 +18,7 @@ Spero di non fermarmi mai con questa pagina :)
 __
 
 ### Cosa sto leggendo:
-> **I Robot dell'Alba** - di Isaac Asimov
+> **I Robot e l'Impero** - di Isaac Asimov
 
 __
 
@@ -72,6 +72,7 @@ __
 #### --- Narrativa
 | | | |
 | --- | --- | --- |
+| Isaac Asimov | | I Robot dell'Alba |
 | Andy Weir | | L'Uomo di Marte - The Martian |
 | Tom Clancy | | La Grande Fuga dell'Ottobre Rosso |
 | Ben Bova | | La Prova del Fuoco |
