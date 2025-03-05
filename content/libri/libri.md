@@ -18,7 +18,7 @@ Spero di non fermarmi mai con questa pagina :)
 __
 
 ### Cosa sto leggendo:
-> **I Robot e l'Impero** - di Isaac Asimov
+> **Il Tiranno dei Mondi (stelle come polvere)** di Isaac Asimov
 
 __
 
@@ -72,6 +72,8 @@ __
 #### --- Narrativa
 | | | |
 | --- | --- | --- |
+| Isaac Asimov | Le Correnti dello Spazio |
+| Isaac Asimov | I Robot e l'Impero |
 | Isaac Asimov | | I Robot dell'Alba |
 | Andy Weir | | L'Uomo di Marte - The Martian |
 | Tom Clancy | | La Grande Fuga dell'Ottobre Rosso |
