@@ -98,7 +98,13 @@ __
 | Isaac Asimov | | Il Sole Nudo |
 | Isaac Asimov | | Abissi d'Acciaio |
 | Isaac Asimov | | Io Robot |
-| Isaac Asimov | | Ciclo della Fondazione (da "Preludio alla fondazione" a "Fondazione e Terra") |
+| Isaac Asimov | | Fondazione anno Zero |
+| Isaac Asimov | | Preludio alla Fondazione |
+| Isaac Asimov | | Fondazione e Terra |
+| Isaac Asimov | | L'Orlo della Fondazione |
+| Isaac Asimov | | Seconda Fondazione |
+| Isaac Asimov | | Fondazione e Impero |
+| Isaac Asimov | | Prima Fondazione |
 | Isaac Asimov | | Neanche gli Dei |
 | Douglas Adams | | Guida Galattica per Autostoppisti |
 | Mario Puzo | | Il Padrino |
