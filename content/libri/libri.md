@@ -18,7 +18,7 @@ Spero di non fermarmi mai con questa pagina :)
 __
 
 ### Cosa sto leggendo:
-> **Il Tiranno dei Mondi (stelle come polvere)** di Isaac Asimov
+> **Paria dei Cieli** di Isaac Asimov
 
 __
 
@@ -72,8 +72,9 @@ __
 #### --- Narrativa
 | | | |
 | --- | --- | --- |
-| Isaac Asimov | Le Correnti dello Spazio |
-| Isaac Asimov | I Robot e l'Impero |
+| Isaac Asimov | | Il Tiranno dei Mondi (stelle come polvere) |
+| Isaac Asimov | | Le Correnti dello Spazio |
+| Isaac Asimov | | I Robot e l'Impero |
 | Isaac Asimov | | I Robot dell'Alba |
 | Andy Weir | | L'Uomo di Marte - The Martian |
 | Tom Clancy | | La Grande Fuga dell'Ottobre Rosso |
@@ -97,8 +98,8 @@ __
 | Isaac Asimov | | Il Sole Nudo |
 | Isaac Asimov | | Abissi d'Acciaio |
 | Isaac Asimov | | Io Robot |
-| Isaac Asimov | | Il Ciclo della Fondazione |
-| Isaac Asimov | | Isaac AsimovNeanche gli Dei |
+| Isaac Asimov | | Ciclo della Fondazione (da "Preludio alla fondazione" a "Fondazione e Terra") |
+| Isaac Asimov | | Neanche gli Dei |
 | Douglas Adams | | Guida Galattica per Autostoppisti |
 | Mario Puzo | | Il Padrino |
 | Mario Rigoni Stern | | Il Sergente nella Neve |
