@@ -46,6 +46,9 @@ pygmentsUseClasses = true
       unsafe = true
       xhtml = false
 
+[imaging.exif]
+    includeFields = ".*"
+
 [menu]
 #  [[menu.main]]
 #    identifier = 'home'
