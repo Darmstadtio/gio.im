@@ -18,7 +18,7 @@ Spero di non fermarmi mai con questa pagina :)
 __
 
 ### Cosa sto leggendo:
-> **Paria dei Cieli** di Isaac Asimov
+> **Cecità** di Josè Saramago
 
 __
 
@@ -72,6 +72,7 @@ __
 #### --- Narrativa
 | | | |
 | --- | --- | --- |
+| Isaac Asimov | | Paria dei Cieli |
 | Isaac Asimov | | Il Tiranno dei Mondi (stelle come polvere) |
 | Isaac Asimov | | Le Correnti dello Spazio |
 | Isaac Asimov | | I Robot e l'Impero |
