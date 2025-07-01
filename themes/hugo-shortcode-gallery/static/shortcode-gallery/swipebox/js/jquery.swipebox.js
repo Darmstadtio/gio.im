@@ -19,7 +19,7 @@
 				useCssLoadingAnimation: true,
 				useSVG : true,
 				initialIndexOnArray : 0,
-				removeTopBarOnMobile : false,
+				removeTopBarOnMobile : true,
 				removeBottomBarOnMobile: false,
 				hideCloseButtonOnMobile : false,
 				hideBarsDelay : 5000,
@@ -43,7 +43,10 @@
 			elements = [], // slides array [ { href:'...', title:'...' }, ...],
 			$elem,
 			selector = elem.selector,
-			isMobile = navigator.userAgent.match( /(iPad)|(iPhone)|(iPod)|(Android)|(PlayBook)|(BB10)|(BlackBerry)|(Opera Mini)|(IEMobile)|(webOS)|(MeeGo)/i ),
+			/**
+			 * isMobile = navigator.userAgent.match( /(iPad)|(iPhone)|(iPod)|(Android)|(PlayBook)|(BB10)|(BlackBerry)|(Opera Mini)|(IEMobile)|(webOS)|(MeeGo)/i ),
+			 */
+			isMobile = true
 			isTouch = isMobile !== null || document.createTouch !== undefined || ( 'ontouchstart' in window ) || ( 'onmsgesturechange' in window ) || navigator.msMaxTouchPoints,
 			supportSVG = !! document.createElementNS && !! document.createElementNS( 'http://www.w3.org/2000/svg', 'svg').createSVGRect,
 			winWidth = window.innerWidth ? window.innerWidth : $( window ).width(),
