@@ -19,7 +19,7 @@
 				useCssLoadingAnimation: true,
 				useSVG : true,
 				initialIndexOnArray : 0,
-				removeTopBarOnMobile : true,
+				removeTopBarOnMobile : false,
 				removeBottomBarOnMobile: false,
 				hideCloseButtonOnMobile : false,
 				hideBarsDelay : 5000,
@@ -46,7 +46,7 @@
 			/**
 			 * isMobile = navigator.userAgent.match( /(iPad)|(iPhone)|(iPod)|(Android)|(PlayBook)|(BB10)|(BlackBerry)|(Opera Mini)|(IEMobile)|(webOS)|(MeeGo)/i ),
 			 */
-			isMobile = true
+			isMobile = true,
 			isTouch = isMobile !== null || document.createTouch !== undefined || ( 'ontouchstart' in window ) || ( 'onmsgesturechange' in window ) || navigator.msMaxTouchPoints,
 			supportSVG = !! document.createElementNS && !! document.createElementNS( 'http://www.w3.org/2000/svg', 'svg').createSVGRect,
 			winWidth = window.innerWidth ? window.innerWidth : $( window ).width(),
@@ -224,7 +224,7 @@
 				$this.actions();
 
 				if ( isTouch ) {
-					$this.gesture();
+					// $this.gesture();
 				}
 
 				// Devices can have both touch and keyboard input so always allow key events
@@ -1022,12 +1022,5 @@
 		return this.data( '_swipebox' );
 
 	};
-
-	$(document).on('touchmove', function(e) {
-		if ($('html').hasClass('swipebox-html')) {
-		  e.preventDefault(); // blocca lo scroll durante la lightbox
-		}
-	  });
-	  
 
 }( window, document, jQuery ) );
