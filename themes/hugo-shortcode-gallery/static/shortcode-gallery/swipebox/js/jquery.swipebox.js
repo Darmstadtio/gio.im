@@ -19,8 +19,8 @@
 				useCssLoadingAnimation: true,
 				useSVG : true,
 				initialIndexOnArray : 0,
-				removeTopBarOnMobile : true,
-				removeBottomBarOnMobile: true,
+				removeTopBarOnMobile : false,
+				removeBottomBarOnMobile: false,
 				hideCloseButtonOnMobile : false,
 				hideBarsDelay : 5000,
 				videoMaxWidth : 1140,
@@ -625,7 +625,7 @@
 						$this.setTimeout();
 					} );
 				}
-				/**
+
 				$( '#swipebox-close' ).bind( action, function( event ) {
 					event.preventDefault();
 					event.stopPropagation();
