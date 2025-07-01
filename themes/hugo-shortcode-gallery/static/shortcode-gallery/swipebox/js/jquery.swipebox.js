@@ -1020,4 +1020,11 @@
 
 	};
 
+	$(document).on('touchmove', function(e) {
+		if ($('html').hasClass('swipebox-html')) {
+		  e.preventDefault(); // blocca lo scroll durante la lightbox
+		}
+	  });
+	  
+
 }( window, document, jQuery ) );
