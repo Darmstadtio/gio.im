@@ -43,9 +43,9 @@
 			elements = [], // slides array [ { href:'...', title:'...' }, ...],
 			$elem,
 			selector = elem.selector,
-			/**
-			 * isMobile = navigator.userAgent.match( /(iPad)|(iPhone)|(iPod)|(Android)|(PlayBook)|(BB10)|(BlackBerry)|(Opera Mini)|(IEMobile)|(webOS)|(MeeGo)/i ),
-			 */
+			
+			// isMobile = navigator.userAgent.match( /(iPad)|(iPhone)|(iPod)|(Android)|(PlayBook)|(BB10)|(BlackBerry)|(Opera Mini)|(IEMobile)|(webOS)|(MeeGo)/i ),
+			
 			isMobile = true,
 			isTouch = isMobile !== null || document.createTouch !== undefined || ( 'ontouchstart' in window ) || ( 'onmsgesturechange' in window ) || navigator.msMaxTouchPoints,
 			supportSVG = !! document.createElementNS && !! document.createElementNS( 'http://www.w3.org/2000/svg', 'svg').createSVGRect,
@@ -320,6 +320,8 @@
 			/**
 			 * Touch navigation
 			 */
+
+			/**
 			gesture : function () {
 
 				var $this = this,
@@ -486,6 +488,7 @@
 
 				} );
 			},
+			*/
 
 			/**
 			 * Set timer to hide the action bars
