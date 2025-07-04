@@ -228,7 +228,7 @@
 				}
 
 				// Devices can have both touch and keyboard input so always allow key events
-				$this.keyboard();
+				// $this.keyboard();
 
 				$this.animBars();
 				$this.resize();
