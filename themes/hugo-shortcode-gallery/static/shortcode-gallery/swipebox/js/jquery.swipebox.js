@@ -321,9 +321,9 @@
 			 * Touch navigation
 			 */
 
-			/**
+			
 			gesture : function () {
-
+			/** 
 				var $this = this,
 					index,
 					hDistance,
@@ -487,8 +487,8 @@
 					$( '.touching' ).off( 'touchmove' ).removeClass( 'touching' );
 
 				} );
-			},
 			*/
+			},
 
 			/**
 			 * Set timer to hide the action bars
@@ -581,6 +581,7 @@
 			 * Keyboard navigation
 			 */
 			keyboard : function () {
+				/**
 				var $this = this;
 				$( window ).bind( 'keyup', function( event ) {
 					event.preventDefault();
@@ -599,6 +600,7 @@
 						$this.closeSlide();
 					}
 				} );
+				*/
 			},
 
 			/**
