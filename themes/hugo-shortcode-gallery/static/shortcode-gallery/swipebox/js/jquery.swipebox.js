@@ -228,7 +228,7 @@
 				}
 
 				// Devices can have both touch and keyboard input so always allow key events
-				// $this.keyboard();
+				$this.keyboard();
 
 				$this.animBars();
 				$this.resize();
@@ -581,7 +581,7 @@
 			 * Keyboard navigation
 			 */
 			keyboard : function () {
-				/**
+				
 				var $this = this;
 				$( window ).bind( 'keyup', function( event ) {
 					event.preventDefault();
@@ -600,7 +600,7 @@
 						$this.closeSlide();
 					}
 				} );
-				*/
+				
 			},
 
 			/**
