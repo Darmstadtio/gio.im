@@ -103,7 +103,7 @@ _foto foto foto!_
 		{"src":"images/20211015_PDSC03519.webp",		"title":"Metafisico?","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20211016_ILCE-72299.webp",		"title":"Metafisico?","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20201028_ILCE-72876.webp",		"title":"Per strada","tags":"bn",	"rating":5,"caption":"","color_labels":""},
-		{"src":"images/20170906__DSC5049-1.webp",		"title":"Luna leggera","tags":"cl",	"rating":5,"caption":"","color_labels":""},
+		{"src":"images/20170906_DSC5049-1.webp",		"title":"Luna leggera","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20190819_DSC01234.webp",		"title":"Osserva il baratro","tags":"bn",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20190524_DSC007843.webp",		"title":"Mistico","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/.webp",		"title":"","tags":"",	"rating":5,"caption":"","color_labels":""}
