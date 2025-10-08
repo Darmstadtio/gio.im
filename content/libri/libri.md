@@ -18,7 +18,7 @@ Spero di non fermarmi mai con questa pagina :)
 __
 
 ### Cosa sto leggendo:
-> **Cecità** di Josè Saramago
+> **Vado verso il capo - 13.000km attraverso l'Affrica** di Sergio Ramazzotti
 
 __
 
@@ -72,6 +72,8 @@ __
 #### --- Narrativa
 | | | |
 | --- | --- | --- |
+| Robert M. Pirsig | | Lo Zen e l'arte della manutenzione della motocicletta |
+| Josè Saramago | | Cecità |
 | Isaac Asimov | | Paria dei Cieli |
 | Isaac Asimov | | Il Tiranno dei Mondi (stelle come polvere) |
 | Isaac Asimov | | Le Correnti dello Spazio |
