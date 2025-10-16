@@ -9,11 +9,11 @@ _foto foto foto!_
 
 {{< gallery
 	images=`[
-		{"src":"images/.webp",		"title":"","tags":"",	"rating":5,"caption":"","color_labels":""}
-		{"src":"images/20250907_DSC05058.webp",		"title":"Una birra sola","tags":"",	"rating":5,"caption":"","color_labels":""},
-		{"src":"images/20250906_DSC04877.webp",		"title":"Palio '25","tags":"",	"rating":5,"caption":"","color_labels":""},
-		{"src":"images/20250906_DSC04867.webp",		"title":"Palio '25","tags":"",	"rating":5,"caption":"","color_labels":""},
+		{"src":"images/20250907_DSC05058.webp",		"title":"Una birra sola","tags":"bn",	"rating":5,"caption":"","color_labels":""},
+		{"src":"images/20250906_DSC04877.webp",		"title":"Palio '25","tags":"bn",	"rating":5,"caption":"","color_labels":""},
+		{"src":"images/20250906_DSC04867.webp",		"title":"Palio '25","tags":"bn",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20250810_DSC04786.webp",		"title":"Fuochi","tags":"cl",			"rating":5,"caption":"","color_labels":""},
+		{"src":"images/20250810_DSC04752.webp",		"title":"Fuochi o stelle","tags":"bn",	"rating":5,"caption":"","color_labels":""}
 		{"src":"images/20250601_DSC04458.webp",		"title":"EUR","tags":"cl",			"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20250601_DSC04445.webp",		"title":"Riservato","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20250601_DSC04491.webp",		"title":"EUR","tags":"bn",			"rating":5,"caption":"","color_labels":""},
