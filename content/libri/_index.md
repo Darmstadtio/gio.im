@@ -17,7 +17,7 @@ Spero di non fermarmi mai con questa pagina :)
 __
 
 ### Cosa sto leggendo:
-> **Vado verso il capo - 13.000km attraverso l'Affrica** di Sergio Ramazzotti
+> **Una persona alla volta** di Gino Strada
 
 __
 
@@ -27,6 +27,7 @@ __
 #### --- Saggistica 
 | | | | 
 | --- | ---| --- | 
+| Sergio Ramazzotti | | Vado verso il capo - 13.000km attraverso l'Africa | 
 | Gino Strada | | Pappagalli Verdi: cronache di un chirurgo di guerra | 
 | Sun Tzu | | L'Arte della Guerra | 
 | Piergio Odifreddi | | C'era una volta un paradosso, storie di illusioni e verità rovesciate |
