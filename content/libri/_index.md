@@ -17,7 +17,7 @@ Spero di non fermarmi mai con questa pagina :)
 __
 
 ### Cosa sto leggendo:
-> **Una persona alla volta** di Gino Strada
+> **Respiro** di Ted Chiang
 
 __
 
@@ -27,6 +27,7 @@ __
 #### --- Saggistica 
 | | | | 
 | --- | ---| --- | 
+| Gino Strada | | Una persona alla volta | 
 | Sergio Ramazzotti | | Vado verso il capo - 13.000km attraverso l'Africa | 
 | Gino Strada | | Pappagalli Verdi: cronache di un chirurgo di guerra | 
 | Sun Tzu | | L'Arte della Guerra | 
