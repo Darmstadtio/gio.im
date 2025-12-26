@@ -5,7 +5,7 @@ layout: "single"
 type: "posts"
 url: "/centro_zero"
 date: 2018-09-30
-draft: false
+draft: true
 tags:
   - progetti
 ---
@@ -27,3 +27,6 @@ Ed ora venite a trovarci, a fare due chiacchiere, a vedere un film, suonare un p
 Vi lascio qualche link utile: [Pagina Fb Centro Zero](https://www.facebook.com/CentroZero/). Dite che vi mando io! ;)
 
 ![Centro Zero](/cose_che/cz_logo.webp)
+
+{{ $image := resources.Get "static/cose_che/cz_logo.webp" }}
+{{ $image := $image.Fill "600x400" }}

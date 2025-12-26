@@ -14,10 +14,10 @@ Ed ora? Ora si è grandi, e dopo aver affrontato la fase "classici della lettera
 Spero di non risultare anacronistico ma per me un libro è solo cartaceo; sì il digitale è comodo, ma non mi regala le stesse sensazioni di vivere la mia fantasia una goccia di inchiostro alla volta.
 Spero di non fermarmi mai con questa pagina :)
  
-__
+//////////////////////////
 
 ### Cosa sto leggendo:
-> **Respiro** di Ted Chiang
+> **La fine dell'Eternità** di Isaac Asimov
 
 __
 
@@ -73,6 +73,7 @@ __
 #### --- Narrativa
 | | | |
 | --- | --- | --- |
+| Ted Chiang | | Respiro |
 | Robert M. Pirsig | | Lo Zen e l'arte della manutenzione della motocicletta |
 | Josè Saramago | | Cecità |
 | Isaac Asimov | | Paria dei Cieli |
