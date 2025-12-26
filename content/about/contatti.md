@@ -2,7 +2,8 @@
 title: "Contatti"
 layout: "single"
 url: "/contatti"
-date: 2024-01-01
+description: "Classico form! Se vuoi fare due chiacchiere ci vediamo a questa pagina!"
+date: 2025-01-01
 draft: false
 ---
 

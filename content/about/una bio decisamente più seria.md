@@ -2,6 +2,7 @@
 title: "Una Bio decisamente più seria"
 layout: "single"
 url: "/bio_seria"
+description: "Ma decisamente non troppo seria dato che non l'ho nemmeno completata. Che poi chi ancora si scrive le biografie? Ha senso? Non so fanno solo post mortem? Un autobiografia live è puro autocelebrazionismo... WORK IN PROGRESS"
 date: 2023-01-01
 draft: false
 ---

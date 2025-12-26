@@ -44,7 +44,7 @@ Ed ora... Contattateci: y4y.project@gmail.com o visitate il nostro sito: [www.y4
 
 ---
 
-# Project If
+# Project IF
 
 Project IF nasce come "esperimento" da un esigenza, una possibilità di approccio al mondo del Social Media Managing che non ho voluto lasciare incolta. Senza addentrarci negli albi storici di questo progetto, tramite Project IF gestisco le pagine Social (principalmente Facebook, Instagram e Twitter) di un piccolo numero di aziende ed associazioni per quali, oltre all'elaborazione e creazione di campagne social mirate a seconda delle esigenze del Cliente, svolgo anche, laddove necessario, opera di Creator di contenuti per le suddette campagne ed (ovvi) post/aggiornamenti.
 
