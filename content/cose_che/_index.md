@@ -9,11 +9,20 @@ draft: false
 Cose che ho fatto, ho detto, ho creato o a cui ho partecipato. Forse più l'ultima! Ho sempre combinato cose e mi sono sempre dato da fare nel fare in modo che il mondo attorno a me rotolasse verso una direzione che mi piace. Mi piace avere le mani sporche, in pasta! Ecco, come detto ho fatto un po' di cose e qua a mo di elenco volevo raccogliere alcune.
 _Tutti i progetti? Forse solo quelli che sono riusciti :_
 
+- [Fuori dal Coro](<#fuori-dal-coro>)
 - [Y4Y: Youngs for Youngs](<#youngs-for-youngs>)
 - [Project IF](<#project-if>)
 - [Centro Zero](<#centro-zero>)
 
 //////////////////////////
+
+---
+
+# Fuori dal Coro
+
+Faccio teatro, da anni a dire il vero, ma non l'ho mai espresso apertamente su queste pagine. Questa piccola sezione dovrà essere espansa.
+
+---
 
 # Youngs For Youngs
 

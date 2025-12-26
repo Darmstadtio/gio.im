@@ -9,7 +9,7 @@ image: images/blog/immagine.estensione
 imageAltAttribute: TestoImmagine
 
 tags:
-  - blog
+  - 
 ---
 
 ## TITOLO 
