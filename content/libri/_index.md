@@ -17,7 +17,7 @@ Spero di non fermarmi mai con questa pagina :)
 //////////////////////////
 
 ### Cosa sto leggendo:
-> **La fine dell'Eternità** di Isaac Asimov
+> **L'uomo duplicato** di Josè Saramago
 
 __
 
@@ -73,6 +73,7 @@ __
 #### --- Narrativa
 | | | |
 | --- | --- | --- |
+| Lorenza Gentile | | Le cose che ci salvano |
 | Ted Chiang | | Respiro |
 | Robert M. Pirsig | | Lo Zen e l'arte della manutenzione della motocicletta |
 | Josè Saramago | | Cecità |
