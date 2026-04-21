@@ -9,6 +9,7 @@ _foto foto foto!_
 
 {{< gallery
 	images=`[
+		{"src":"images/20260405_DSC06627.webp",		"title":"Bar Milano","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20250511_DSC04138.webp",		"title":"Info","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20250907_DSC05058.webp",		"title":"Una birra sola","tags":"bn",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20250906_DSC04877.webp",		"title":"Palio 25","tags":"bn",			"rating":5,"caption":"","color_labels":""},
@@ -112,7 +113,6 @@ _foto foto foto!_
 		{"src":"images/20170906_DSC5049-1.webp",		"title":"Luna leggera","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20190819_DSC01234.webp",		"title":"Osserva il baratro","tags":"bn",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20190524_DSC007843.webp",		"title":"Mistico","tags":"cl",	"rating":5,"caption":"","color_labels":""},
-		{"src":"images/20260405_DSC06627.webp",		"title":"Bar Milano","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/.webp",		"title":"","tags":"",	"rating":5,"caption":"","color_labels":""}
 		]`
 	rowHeight=150
