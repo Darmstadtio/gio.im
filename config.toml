@@ -55,31 +55,37 @@ pygmentsUseClasses = true
 #    name = 'Home'
 #    url = '/'
 #    weight = 1
+
   [[menu.main]]
     name = "Blog"
     identifier = "blog"
     weight = 2
     url = "/blog/"
+
   [[menu.main]]
     name = "Fotografia"
     identifier = "foto"
     weight = 3
     url = "/fotografia/"
+
   [[menu.main]]
     name = "Libri"
     identifier = "leggo"
     weight = 4
     url = "/libri/"
+
   [[menu.main]]
     name = "CoseChe"
     identifier = "cose"
     weight = 5
     url = "/cose_che/"
+
   [[menu.main]]
     name = "AboutMe"
     identifier = "about"
     weight = 6
     url = "/about_me/"
+
 #  [[menu.main]]
 #    name = "Tags"
 #    identifier = "tags"

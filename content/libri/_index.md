@@ -17,7 +17,7 @@ Spero di non fermarmi mai con questa pagina :)
 //////////////////////////
 
 ### Cosa sto leggendo:
-> **L'uomo duplicato** di Josè Saramago
+> **L'uomo nell'alto castello** di Philip Dick
 
 __
 
@@ -73,6 +73,7 @@ __
 #### --- Narrativa
 | | | |
 | --- | --- | --- |
+| Zerocalcare | | L'elenco telefonico degli accolli |
 | Lorenza Gentile | | Le cose che ci salvano |
 | Ted Chiang | | Respiro |
 | Robert M. Pirsig | | Lo Zen e l'arte della manutenzione della motocicletta |
