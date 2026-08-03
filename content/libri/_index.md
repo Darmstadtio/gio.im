@@ -17,7 +17,7 @@ Spero di non fermarmi mai con questa pagina :)
 //////////////////////////
 
 ### Cosa sto leggendo:
-> **L'uomo nell'alto castello** di Philip Dick
+> **Notturno** di Isaac Asimov
 
 __
 
@@ -73,6 +73,7 @@ __
 #### --- Narrativa
 | | | |
 | --- | --- | --- |
+| Philip Dick | L'uomo nell'alto castello |
 | Zerocalcare | | L'elenco telefonico degli accolli |
 | Lorenza Gentile | | Le cose che ci salvano |
 | Ted Chiang | | Respiro |
