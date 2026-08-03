@@ -73,7 +73,7 @@ __
 #### --- Narrativa
 | | | |
 | --- | --- | --- |
-| Philip Dick | L'uomo nell'alto castello |
+| Philip Dick | | L'uomo nell'alto castello |
 | Zerocalcare | | L'elenco telefonico degli accolli |
 | Lorenza Gentile | | Le cose che ci salvano |
 | Ted Chiang | | Respiro |
