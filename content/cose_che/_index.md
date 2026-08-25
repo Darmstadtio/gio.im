@@ -9,6 +9,7 @@ draft: false
 Cose che ho fatto, ho detto, ho creato o a cui ho partecipato. Forse più l'ultima! Ho sempre combinato cose e mi sono sempre dato da fare nel fare in modo che il mondo attorno a me rotolasse verso una direzione che mi piace. Mi piace avere le mani sporche, in pasta! Ecco, come detto ho fatto un po' di cose e qua a mo di elenco volevo raccogliere alcune.
 _Tutti i progetti? Forse solo quelli che sono riusciti :_
 
+- [Riloi River Ride](<#riloi-river-ride>)
 - [Fuori dal Coro](<#fuori-dal-coro>)
 - [Y4Y: Youngs for Youngs](<#youngs-for-youngs>)
 - [Project IF](<#project-if>)
@@ -18,10 +19,19 @@ _Tutti i progetti? Forse solo quelli che sono riusciti :_
 
 ---
 
+# Riloi River Ride
+
+Hai presente quando ti passa per la mente l'idea del tipo: "E va bene, allora questa cosa me la faccio da solo"? Ecco, questo è esattamante lo spirito con cui è nato questo progetto: non riesco a partecipare ad un evento gravel? Bene, mi farò il mio. Ecco come è nata la Riloi River Ride, la prima Social Ride Gravel lungo le sponde dell'Oglio di Palosco!
+
+![Riloi River Ride](/cose_che/riloi_river_ride.webp)
+---
+
 # Fuori dal Coro
 
-Faccio teatro, da anni a dire il vero, ma non l'ho mai espresso apertamente su queste pagine. Questa piccola sezione dovrà essere espansa.
+Faccio teatro, da anni a dire il vero, ma non l'ho mai raccontato su queste pagine. Non che me ne sia mai vergognato (anzi ne sono sempre andato fiero) maa chissà perchè è una parte di me che è sempre rimasta un po nell'ombra. 
+Faccio teatro dal lontato 2013 almeno. Teatro, eravamo un compagnia di ragazzini che iniziarono a fare cose un un palco, musical ad essere precisi (e spoiler non sapevamo cantare ne ballare). 
 
+![Fuori dal Coro](/cose_che/fuori_dal_coro.webp)
 ---
 
 # Youngs For Youngs
