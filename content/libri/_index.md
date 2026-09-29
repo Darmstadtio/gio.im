@@ -17,7 +17,7 @@ Spero di non fermarmi mai con questa pagina :)
 //////////////////////////
 
 ### Cosa sto leggendo:
-> **Notturno** di Isaac Asimov
+> **Storie della tua Vita** di Ted Chiang
 
 __
 
@@ -73,6 +73,7 @@ __
 #### --- Narrativa
 | | | |
 | --- | --- | --- |
+| Isaac Asimov | | Notturno |
 | Philip Dick | | L'uomo nell'alto castello |
 | Zerocalcare | | L'elenco telefonico degli accolli |
 | Lorenza Gentile | | Le cose che ci salvano |
