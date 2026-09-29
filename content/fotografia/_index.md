@@ -14,7 +14,7 @@ _foto foto foto!_
 		{"src":"images/20260911_DSC08566.webp",		"title":"Cappadocia '26","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20260912_DSC08625.webp",		"title":"Cappadocia '26","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20260908_DSC07892.webp",		"title":"Istanbul '26","tags":"bn",		"rating":5,"caption":"","color_labels":""},
-		{"src":"images/20260908_DSC07892.webp",		"title":"Istanbul '26, Forme","tags":"cl",	"rating":5,"caption":"","color_labels":""},
+		{"src":"images/20260908_DSC07892.webp",		"title":"Istanbul '26 Forme","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20260908_DSC07733.webp",		"title":"Istanbul '26","tags":"cl",		"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20260908_DSC07700.webp",		"title":"Istanbul '26","tags":"cl",		"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20260702_DSC07458.webp",		"title":"Verde","tags":"cl",			"rating":5,"caption":"","color_labels":""},
