@@ -1,6 +1,6 @@
 enableRobotsTXT = true
 baseURL = "https://gioim.netlify.app/"
-languageCode = "en-us"
+locale = "it-it"
 theme = ["hugo-winston-theme", "hugo-shortcode-gallery"]
 themesDir = "themes"
 title = "Un Nodo nella Rete"
