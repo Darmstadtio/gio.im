@@ -9,6 +9,11 @@ _foto foto foto!_
 
 {{< gallery
 	images=`[
+		{"src":"images/20260916_DSC09139.webp",		"title":"Ankara '26","tags":"bn",	"rating":5,"caption":"","color_labels":""},
+		{"src":"images/20260916_DSC09124.webp",		"title":"Ankara '26","tags":"bn",	"rating":5,"caption":"","color_labels":""},
+		{"src":"images/20260916_DSC09099.webp",		"title":"Ankara '26","tags":"cl",	"rating":5,"caption":"","color_labels":""},
+		{"src":"images/20260916_DSC09047.webp",		"title":"Ankara '26","tags":"cl",	"rating":5,"caption":"","color_labels":""},
+		{"src":"images/20260911_DSC08499.webp",		"title":"Cappadocia '26","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20260911_DSC08577.webp",		"title":"Cappadocia '26","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20260911_DSC08570.webp",		"title":"Cappadocia '26","tags":"cl ",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20260911_DSC08566.webp",		"title":"Cappadocia '26","tags":"cl",	"rating":5,"caption":"","color_labels":""},
@@ -134,6 +139,7 @@ _foto foto foto!_
 	showExif="true"  
 	previewType="blur"  
 	embedPreview="true"
+	thumbnailHoverEffect="enlarge"
 >}}
 
 --------------

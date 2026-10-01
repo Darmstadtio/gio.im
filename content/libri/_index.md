@@ -73,6 +73,7 @@ __
 #### --- Narrativa
 | | | |
 | --- | --- | --- |
+|Ted Chiang | | Storie della tua Vita e altri racconti |
 | Isaac Asimov | | Notturno |
 | Philip Dick | | L'uomo nell'alto castello |
 | Zerocalcare | | L'elenco telefonico degli accolli |

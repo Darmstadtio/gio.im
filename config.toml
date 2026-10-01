@@ -46,8 +46,12 @@ pygmentsUseClasses = true
       unsafe = true
       xhtml = false
 
-[imaging.exif]
-    includeFields = ".*"
+#[imaging.exif]
+#    includeFields = ".*"
+
+[imaging.meta]
+    fields = ["**"]
+    sources = ["exif"]
 
 [menu]
 #  [[menu.main]]

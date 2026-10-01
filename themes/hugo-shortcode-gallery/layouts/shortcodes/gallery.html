@@ -116,8 +116,8 @@
 		{{ if $isLocalResource }}
 			{{/* Se l'immagine ha EXIF, uniscili con i metadati forniti */}}
 			{{ if and (in "jpeg png tiff webp" $original.MediaType.SubType) ($showExif) }}
-				{{ with $original.Exif }}
-					{{ $metadata = merge .Tags $metadata }}
+				{{ with $original.Meta }}
+					{{ $metadata = merge .Exif $metadata }}
 				{{ end }}
 			{{ end }}
 
