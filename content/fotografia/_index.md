@@ -9,6 +9,7 @@ _foto foto foto!_
 
 {{< gallery
 	images=`[
+		{"src":"images/20250511_DSC04034.webp",		"title":"Forme","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20260405_DSC06698.webp",		"title":"Su chi punti?","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20260916_DSC09181.webp",		"title":"Turchia","tags":"cl",	"rating":5,"caption":"","color_labels":""},
 		{"src":"images/20260916_DSC09139.webp",		"title":"Ankara '26","tags":"bn",	"rating":5,"caption":"","color_labels":""},
