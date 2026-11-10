@@ -17,7 +17,7 @@ Spero di non fermarmi mai con questa pagina :)
 //////////////////////////
 
 ### Cosa sto leggendo:
-> **Storie della tua Vita** di Ted Chiang
+> **La Fine dell'Eternità** di Isaac Asimov
 
 __
 
@@ -73,7 +73,8 @@ __
 #### --- Narrativa
 | | | |
 | --- | --- | --- |
-|Ted Chiang | | Storie della tua Vita e altri racconti |
+| George Orwell | | Fiorirà l'Aspidistra |
+| Ted Chiang | | Storie della tua Vita e altri racconti |
 | Isaac Asimov | | Notturno |
 | Philip Dick | | L'uomo nell'alto castello |
 | Zerocalcare | | L'elenco telefonico degli accolli |
